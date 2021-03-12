@@ -1,0 +1,10 @@
+"RegistroID";"Importado";"Temporario";"Removido";"ImportadoRepetido";"Codigo";"Nome";"DataIns";"DataAlt";"RespAlt"
+1.00;0;0;0;0;1;"RIO AMAZONAS";;;
+2.00;0;0;0;0;2;"RIO TOCANTINS";;;
+3.00;0;0;0;0;3;"ATLÂNTICO,TRECHO NORTE/NORDESTE";;;
+4.00;0;0;0;0;4;"RIO SÃO FRANCISCO";;;
+5.00;0;0;0;0;5;"ATLÂNTICO,TRECHO LESTE";;;
+6.00;0;0;0;0;6;"RIO PARANÁ";;;
+7.00;0;0;0;0;7;"RIO URUGUAI";;;
+8.00;0;0;0;0;8;"ATLÂNTICO, TRECHO SUDESTE";;;
+9.00;0;0;0;0;9;"OUTRAS";;;

@@ -1,0 +1,987 @@
+"RegistroID";"Importado";"Temporario";"Removido";"ImportadoRepetido";"Codigo";"Sigla";"Nome";"DataIns";"DataAlt";"RespAlt"
+66807548.00;0;0;0;0;1;"ANA";"Agência Nacional de Águas";11/2/2020 00:00:00;;8
+66807549.00;0;0;0;0;2;"DNOS";"Departamento Nacional de Obras de Saneamento";11/2/2020 00:00:00;;8
+66807550.00;0;0;0;0;3;"DNIT";"Departamento Nacional de Infra-Estrutura de Transportes";11/2/2020 00:00:00;;8
+66807551.00;0;0;0;0;4;"CODEVASF";"Cia de Desenvolvimento dos Vales do São Francisco e Parnaiba";11/2/2020 00:00:00;;8
+66807552.00;0;0;0;0;5;"INMET";"Instituto Nacional de Meteorologia";11/2/2020 00:00:00;;8
+66807553.00;0;0;0;0;6;"CESP";"Companhia Energética de São Paulo-CESP";11/2/2020 00:00:00;;8
+66807554.00;0;0;0;0;7;"CEEE";"Companhia Estadual de Geração e Transmissão de Energia Elétrica-CEEE";11/2/2020 00:00:00;;8
+66807555.00;0;0;0;0;8;"LIGHT";"Light Energia S.A";11/2/2020 00:00:00;;8
+66807556.00;0;0;0;0;9;"FUNCEME-CE";"Fundação Cearense de Meteorologia e Recursos Hídricos";11/2/2020 00:00:00;;8
+66807557.00;0;0;0;0;10;"DAEE-SP";"Departamento de Águas e Energia Elétrica do Estado de São Paulo";11/2/2020 00:00:00;;8
+66807558.00;0;0;0;0;11;"SUDENE";"Superintendência do Desenvolvimento do Nordeste";11/2/2020 00:00:00;;8
+66807559.00;0;0;0;0;12;"PRADA";"Cia Prada de Eletricidade";11/2/2020 00:00:00;;8
+66807560.00;0;0;0;0;13;"CEMAT";"Centrais Elétricas Matogrossenses S.A.";11/2/2020 00:00:00;;8
+66807561.00;0;0;0;0;14;"EFMM";"Estrada de Ferro Madeira-Mamoré";11/2/2020 00:00:00;;8
+66807562.00;0;0;0;0;15;"CELESC";"Celesc Geração S.A";11/2/2020 00:00:00;;8
+66807563.00;0;0;0;0;16;"EEVP";"Empresa de Eletricidade Vale do Paranapanema S.A.";11/2/2020 00:00:00;;8
+66807564.00;0;0;0;0;17;"SUL PAULISTA";"Empresa de Eletricidade Sul Paulista S.A.";11/2/2020 00:00:00;;8
+66807565.00;0;0;0;0;18;"CEA";"Cia de Eletricidade do Amapá";11/2/2020 00:00:00;;8
+66807566.00;0;0;0;0;19;"CELPA";"Centrais Elétricas do Pará  S.A.";11/2/2020 00:00:00;;8
+66807567.00;0;0;0;0;20;"ALUMINAS";"Alumínio Minas Gerais S.A.";11/2/2020 00:00:00;;8
+66807568.00;0;0;0;0;21;"EFVM";"Estrada de Ferro Vitória-Minas";11/2/2020 00:00:00;;8
+66807569.00;0;0;0;0;22;"CBCC";"Cia Brasileira de Carbureto de Cálcio";11/2/2020 00:00:00;;8
+66807570.00;0;0;0;0;23;"CEMIG";"CEMIG Geração e Transmissão S.A";11/2/2020 00:00:00;;8
+66807571.00;0;0;0;0;24;"SCHLEMN";"Cia Alexandre Schlemn";11/2/2020 00:00:00;;8
+66807572.00;0;0;0;0;25;"ICB";"Instituto do Cacau da Bahia";11/2/2020 00:00:00;;8
+66807573.00;0;0;0;0;26;"EESC";"Escola de Engenharia de São Carlos";11/2/2020 00:00:00;;8
+66807574.00;0;0;0;0;27;"SANBRA";"Sociedade Algodoeira do Nordeste do Brasil";11/2/2020 00:00:00;;8
+66807575.00;0;0;0;0;28;"COPEL";"Copel Geração e Transmissão S.A";11/2/2020 00:00:00;;8
+66807576.00;0;0;0;0;29;"SOUZA CRUZ";"Cia de Cigarros Souza Cruz Indústria e Comércio Ltda.";11/2/2020 00:00:00;;8
+66807577.00;0;0;0;0;30;"ICOMI";"Indústria e Comércio de Minérios";11/2/2020 00:00:00;;8
+66807578.00;0;0;0;0;31;"ACCO";"Anderson Clayton e Cia Ltda.";11/2/2020 00:00:00;;8
+66807579.00;0;0;0;0;32;"CMNP";"Cia de Melhoramento Norte do Paraná";11/2/2020 00:00:00;;8
+66807580.00;0;0;0;0;33;"CTNP";"Cia de Terras Norte do Paraná";11/2/2020 00:00:00;;8
+66807581.00;0;0;0;0;34;"CEMAR";"Companhia Energética do Maranhão S.A.";11/2/2020 00:00:00;;8
+66807582.00;0;0;0;0;35;"FABA";"Fomento Agrícola da Bahia";11/2/2020 00:00:00;;8
+66807583.00;0;0;0;0;36;"CPFL-FERROLIGAS";"Cia Paulista de Ferro Ligas";11/2/2020 00:00:00;;8
+66807584.00;0;0;0;0;37;"COELBA";"Cia de Eletricidade do Estado da Bahia";11/2/2020 00:00:00;;8
+66807585.00;0;0;0;0;38;"SABA";"Secretaria da Agricultura da Bahia";11/2/2020 00:00:00;;8
+66807586.00;0;0;0;0;39;"FASE";"Fomento Agrícola de Sergipe";11/2/2020 00:00:00;;8
+66807587.00;0;0;0;0;40;"IRGA";"Instituto Riograndense do Arroz";11/2/2020 00:00:00;;8
+66807588.00;0;0;0;0;41;"USIBA";"Usina Siderurgica da Bahia";11/2/2020 00:00:00;;8
+66807589.00;0;0;0;0;42;"EMBRAPA/IPAGRO";"Empresa Brasileira de Pesquisa Agropecuária";11/2/2020 00:00:00;;8
+66807590.00;0;0;0;0;43;"KLABIN";"Klabin S.A";11/2/2020 00:00:00;;8
+66807591.00;0;0;0;0;44;"CONTUR";"Contur Energética";11/2/2020 00:00:00;;8
+66807592.00;0;0;0;0;45;"STEVENSON";"F. Stevenson e Companhia";11/2/2020 00:00:00;;8
+66807593.00;0;0;0;0;46;"DER-SP";"Departamento de Estrada de Rodagem do Estado de São Paulo";11/2/2020 00:00:00;;8
+66807594.00;0;0;0;0;47;"RFFSA";"Rede Ferroviária Federal S.A.";11/2/2020 00:00:00;;8
+66807595.00;0;0;0;0;48;"SAA-SP";"Secretaria de  Estado da Agricultura e Abastecimento de São Paulo";11/2/2020 00:00:00;;8
+66807596.00;0;0;0;0;49;"CEESC";"Comissão de Energia Elétrica de Santa Catarina";11/2/2020 00:00:00;;8
+66807597.00;0;0;0;0;50;"FEPASA";"Ferrovia Paulista S.A.";11/2/2020 00:00:00;;8
+66807598.00;0;0;0;0;51;"SOPRS";"Secretaria de Obras Públicas e Saneamento do Estado do Rio Grande do Sul";11/2/2020 00:00:00;;8
+66807599.00;0;0;0;0;52;"AGUASPARANÁ";"Instituto das Águas do Paraná (antiga SUDERHSA)";11/2/2020 00:00:00;;8
+66807600.00;0;0;0;0;53;"CIA";"Centro Industrial de Aratú";11/2/2020 00:00:00;;8
+66807601.00;0;0;0;0;54;"COPASA-MG";"Cia de Saneamento de Minas Gerais";11/2/2020 00:00:00;;8
+66807602.00;0;0;0;0;55;"ELETROBRÁS";"Centrais Elétricas Brasileiras S.A.";11/2/2020 00:00:00;;8
+66807603.00;0;0;0;0;56;"IDESP";"Instituto de Desenvolvimento Econômico e Social do Pará";11/2/2020 00:00:00;;8
+66807604.00;0;0;0;0;57;"DEPV";"Diretoria de Eletrônica e Proteção ao Vôo do Ministério da Aeronaútica";11/2/2020 00:00:00;;8
+66807605.00;0;0;0;0;58;"DNOCS";"Departamento Nacional de Obras Contra as Secas";11/2/2020 00:00:00;;8
+66807606.00;0;0;0;0;59;"FEEMA";"Fundação Estadual de Engenharia do Meio Ambiente - RJ";11/2/2020 00:00:00;;8
+66807607.00;0;0;0;0;60;"IAA";"Instituto do Açúcar e do Alcool";11/2/2020 00:00:00;;8
+66807608.00;0;0;0;0;61;"CHM";"Comando de Hidrografia e Navegação do Ministério da Marinha";11/2/2020 00:00:00;;8
+66807609.00;0;0;0;0;62;"CEPLAC";"Comissão Executiva do Plano de Recuperação Economica-Social da Lavoura Cacaueira";11/2/2020 00:00:00;;8
+66807610.00;0;0;0;0;63;"CLM";"Comissão da Lagoa Mirim";11/2/2020 00:00:00;;8
+66807611.00;0;0;0;0;64;"SUDAM";"Superintendência do Desenvolvimento da Amazônia";11/2/2020 00:00:00;;8
+66807612.00;0;0;0;0;65;"DEPRC";"Departamento Estadual de Portos, Rios e Canais do Rio Grande do Sul";11/2/2020 00:00:00;;8
+66807613.00;0;0;0;0;66;"DMAE";"Departamento Municipal de Águas e Esgoto - Porto Alegre / RS";11/2/2020 00:00:00;;8
+66807614.00;0;0;0;0;67;"IAPAR";"Instituto Agronomo do Paraná";11/2/2020 00:00:00;;8
+66807615.00;0;0;0;0;68;"DAEE-MG";"Departamento de Águas e Energia Elétrica de Minas Gerais";11/2/2020 00:00:00;;8
+66807616.00;0;0;0;0;69;"FURNAS";"Furnas Centrais Elétricas S.A.";11/2/2020 00:00:00;;8
+66807617.00;0;0;0;0;70;"MORRO VELHO";"Mineração Morro Velho S.A.";11/2/2020 00:00:00;;8
+66807618.00;0;0;0;0;71;"SABESP";"Companhia de Saneamento Básico do Estado de São Paulo-SABESP";11/2/2020 00:00:00;;8
+66807619.00;0;0;0;0;72;"GERAL";"Cia Geral de Eletricidade";11/2/2020 00:00:00;;8
+66807620.00;0;0;0;0;73;"EMBASA-BA";"Empresa Baiana de Saneamento";11/2/2020 00:00:00;;8
+66807621.00;0;0;0;0;74;"CERB";"Cia de Engenharia Rural da Bahia";11/2/2020 00:00:00;;8
+66807622.00;0;0;0;0;75;"ELETRONORTE";"Centrais Elétricas do Norte do Brasil S.A-ELETRONORTE";11/2/2020 00:00:00;;8
+66807623.00;0;0;0;0;76;"SERLA-RJ";"Superintendência Estadual de Rios e Lagoas do Rio de Janeiro";11/2/2020 00:00:00;;8
+66807624.00;0;0;0;0;77;"CAESB";"Companhia de Saneamento Ambiental do Distrito Federal";11/2/2020 00:00:00;;8
+66807625.00;0;0;0;0;78;"PLANALSUCAR";"Programa Nacional de Melhoramento da Cana-de-Açúcar";11/2/2020 00:00:00;;8
+66807626.00;0;0;0;0;79;"ELETROSUL";"Eletrosul Centrais Elétricas S.A.";11/2/2020 00:00:00;;8
+66807627.00;0;0;0;0;80;"CHESF";"Companhia Hidro Elétrica do São Francisco-CHESF";11/2/2020 00:00:00;;8
+66807628.00;0;0;0;0;81;"VALE";"Vale S.A.";11/2/2020 00:00:00;;8
+66807629.00;0;0;0;0;82;"CPRM";"Cia de Pesquisa de Recursos Minerais";11/2/2020 00:00:00;;8
+66807630.00;0;0;0;0;83;"CAGEPA";"Cia de Águas e Esgoto da Paraíba";11/2/2020 00:00:00;;8
+66807631.00;0;0;0;0;84;"EMAE";"Empresa Metropolitana de Águas e Energia  S.A-EMAE";11/2/2020 00:00:00;;8
+66807632.00;0;0;0;0;85;"HIDROLOGIA";"Engenharia Industria e Comércio S.A.";11/2/2020 00:00:00;;8
+66807633.00;0;0;0;0;86;"CNEC";"Consorcio Nacional de Engenheiros Consultores";11/2/2020 00:00:00;;8
+66807634.00;0;0;0;0;87;"HIDROSERVICE";"Engenharia de Projetos Ltda.";11/2/2020 00:00:00;;8
+66807635.00;0;0;0;0;88;"HIDROESB";"Saturnino de Brito S.A.";11/2/2020 00:00:00;;8
+66807636.00;0;0;0;0;89;"EMATER";"Empresa Estadual de Assistência Tec. e Ext. Rural";11/2/2020 00:00:00;;8
+66807637.00;0;0;0;0;90;"ITAIPU";"Itaipu  Binacional";11/2/2020 00:00:00;;8
+66807638.00;0;0;0;0;91;"SEMA-MT";"Secretaria de Meio Ambiente do Estado do Mato Grosso";11/2/2020 00:00:00;;8
+66807639.00;0;0;0;0;92;"LMRS-PB";"Laboratório de Met., Rec. Hid. e Sensoriamento Remoto da Paraíba";11/2/2020 00:00:00;;8
+66807640.00;0;0;0;0;93;"SIMEPAR";"Sistema Meteorológico do Paraná";11/2/2020 00:00:00;;8
+66807641.00;0;0;0;0;94;"EPAGRI-SC";"Empresa de Pesquisa Agrícola de Santa Catarina";11/2/2020 00:00:00;;8
+66807642.00;0;0;0;0;95;"CELTINS";"Cia. Energia Elétrica do Estado do Tocantins";11/2/2020 00:00:00;;8
+66807643.00;0;0;0;0;96;"IEMA-ES";"Instituto Estadual de Meio Ambiente e Recursos Hidricos - Espirito Santo";11/2/2020 00:00:00;;8
+66807644.00;0;0;0;0;97;"EMPARN";"Empresa de Pesquisa Agropecuária do Rio Grande do Norte";11/2/2020 00:00:00;;8
+66807645.00;0;0;0;0;98;"SANEPAR";"Cia de Saneamento do Paraná";11/2/2020 00:00:00;;8
+66807646.00;0;0;0;0;100;"COHIDRO";"Consultoria, Estudos e Projetos";11/2/2020 00:00:00;;8
+66807647.00;0;0;0;0;102;"SDM-DF";"Secretaria de Estado de Desenvolvimento Urbano e Meio Ambiente";11/2/2020 00:00:00;;8
+66807648.00;0;0;0;0;101;"IGAM-MG";"Instituto Mineiro de Gestão das Águas";11/2/2020 00:00:00;;8
+66807649.00;0;0;0;0;104;"CPRH-PE";"Companhia Pernambucana do Meio Ambiente";11/2/2020 00:00:00;;8
+66807650.00;0;0;0;0;108;"HYDROCONSULT";"Hydroconsult - Hidrométrica Comércio e Serviços Ltda.";11/2/2020 00:00:00;;8
+66807651.00;0;0;0;0;105;"SEMA-AP";"Secretaria de Meio Ambiente do Estado do Amapá";11/2/2020 00:00:00;;8
+66807652.00;0;0;0;0;111;"NATURATINS";"Instituto Natureza do Tocantins";11/2/2020 00:00:00;;8
+66807653.00;0;0;0;0;106;"COGERH-CE";"Companhia de Gestão dos Recursos Hídricos - Ceará";11/2/2020 00:00:00;;8
+66807654.00;0;0;0;0;103;"GERASUL";"Centrais Elétricas do Sul do Brasil";11/2/2020 00:00:00;;8
+66807655.00;0;0;0;0;901;"DH - URUGUAI";"Uruguai";11/2/2020 00:00:00;;8
+66807656.00;0;0;0;0;112;"ENGIE";"Engie Brasil Energia S.A.";11/2/2020 00:00:00;;8
+66807657.00;0;0;0;0;110;"ANEEL";"Agência Nacional de Energia Elétrica";11/2/2020 00:00:00;;8
+66807658.00;0;0;0;0;109;"SNIRH-MA";"Sistema Nacional de Informações sobre Recursos Hídricos - Maranhão";11/2/2020 00:00:00;;8
+66807659.00;0;0;0;0;107;"CRA";"Centro de Recursos Ambientais da Bahia";11/2/2020 00:00:00;;8
+66807660.00;0;0;0;0;902;"ARGENTINA";"Argentina";11/2/2020 00:00:00;;8
+66807661.00;0;0;0;0;903;"PARAGUAI";"Paraguai";11/2/2020 00:00:00;;8
+66807662.00;0;0;0;0;904;"CHILE";"Chile";11/2/2020 00:00:00;;8
+66807663.00;0;0;0;0;905;"BOLÍVIA";"Bolívia";11/2/2020 00:00:00;;8
+66807664.00;0;0;0;0;906;"SENAMHI-PERU";"Servicio Nacional de Meteorologia e Hidrologia del Perú";11/2/2020 00:00:00;;8
+66807665.00;0;0;0;0;907;"IDEAM-COLÔMBIA";"Instituto de Hidrologia, Meteorologia y Estudos Ambientales";11/2/2020 00:00:00;;8
+66807666.00;0;0;0;0;908;"EQUADOR";"Equador";11/2/2020 00:00:00;;8
+66807667.00;0;0;0;0;909;"VENEZUELA";"Venezuela";11/2/2020 00:00:00;;8
+66807668.00;0;0;0;0;910;"GUIANA";"Guiana";11/2/2020 00:00:00;;8
+66807669.00;0;0;0;0;911;"SURINAME";"Suriname";11/2/2020 00:00:00;;8
+66807670.00;0;0;0;0;912;"GUIANA FRANCESA";"Guiana Francesa";11/2/2020 00:00:00;;8
+66807671.00;0;0;0;0;113;"CETESB-SP";"Companhia de Tecnologia de Saneamento Ambiental";11/2/2020 00:00:00;;8
+66807672.00;0;0;0;0;114;"INEMA-BA";"Instituto do Meio Ambiente e Recursos Hídricos - BA";11/2/2020 00:00:00;;8
+66807673.00;0;0;0;0;116;"IMASUL-MS";"Instituto de Meio Ambiente de Mato Grosso do Sul";11/2/2020 00:00:00;;8
+66807674.00;0;0;0;0;115;"SEDAM-RO";"Secretaria de Estado do Desenvolvimento Ambiental - RO";11/2/2020 00:00:00;;8
+66807675.00;0;0;0;0;118;"RTK";"RTK Engenharia";11/2/2020 00:00:00;;8
+66807676.00;0;0;0;0;120;"SEMAD-GO";"Secretaria do Meio Ambiente e Recursos Hídricos - GO";11/2/2020 00:00:00;;8
+66807677.00;0;0;0;0;117;"CASAN";"Companhia Catarinense de Águas e Saneamento de SC";11/2/2020 00:00:00;;8
+66807678.00;0;0;0;0;121;"SEMARH-AL";"Secretaria do Meio Ambiente e  Recursos Hídricos - AL";11/2/2020 00:00:00;;8
+66807679.00;0;0;0;0;128;"UFSM";"Universidade  Federal de Santa Maria - RS";11/2/2020 00:00:00;;8
+66807680.00;0;0;0;0;122;"CELG";"CELG Geração e Transmissão S.A";11/2/2020 00:00:00;;8
+66807681.00;0;0;0;0;125;"UFAM";"Universidade Federal do Estado do Amazonas";11/2/2020 00:00:00;;8
+66807682.00;0;0;0;0;123;"CEDAE";"Companhia Estadual de Águas e Esgotos";11/2/2020 00:00:00;;8
+66807683.00;0;0;0;0;133;"CEB";"CEB Geração S.A.";11/2/2020 00:00:00;;8
+66807684.00;0;0;0;0;126;"MANASA";"Madeireira Nacional S/A";11/2/2020 00:00:00;;8
+66807685.00;0;0;0;0;129;"ENERCAN";"Campos Novos Energia S.A-ENERCAN";11/2/2020 00:00:00;;8
+66807686.00;0;0;0;0;127;"INPE";"Instituto Nacional de Pesquisas Espaciais";11/2/2020 00:00:00;;8
+66807687.00;0;0;0;0;134;"VITERBO";"Viterbo Machado Luz Mineração Ltda.";11/2/2020 00:00:00;;8
+66807688.00;0;0;0;0;200;"RECIMAP";"Recimap Industria e Comércio Ltda.";11/2/2020 00:00:00;;8
+66807689.00;0;0;0;0;131;"PARANAPANEMA";"Rio Paranapanema Energia S.A";11/2/2020 00:00:00;;8
+66807690.00;0;0;0;0;135;"COOPERLUZ";"Cooperativa de Geração de Energia e Desenvolvimento COOPERLUZ Geração";11/2/2020 00:00:00;;8
+66807691.00;0;0;0;0;140;"UFBA";"Universidade Federal da Bahia";11/2/2020 00:00:00;;8
+66807692.00;0;0;0;0;136;"JAGUARI";"Jaguari Energética S.A";11/2/2020 00:00:00;;8
+66807693.00;0;0;0;0;164;"IRANI";"Celulose Irani S.A.";11/2/2020 00:00:00;;8
+66807694.00;0;0;0;0;139;"CONSTRUSERV";"Construserv Serviços Gerais Ltda";11/2/2020 00:00:00;;8
+66807695.00;0;0;0;0;138;"ENGEP";"Engenharia e Pavimentação Ltda";11/2/2020 00:00:00;;8
+66807696.00;0;0;0;0;165;"IGUAÇU";"Iguaçu Geração de Energia Ltda.";11/2/2020 00:00:00;;8
+66807697.00;0;0;0;0;241;"MONTE AZUL";"Monte Azul Empreendimentos Imobiliários e Geração de Energia Ltda.";11/2/2020 00:00:00;;8
+66807698.00;0;0;0;0;166;"CERFOX";"Cooperativa de Geração e Distribuição de Energia Fontoura Xavier Ltda. - CERFOX";11/2/2020 00:00:00;;8
+66807699.00;0;0;0;0;265;"CURUÁ";"Curuá Energia S.A.";11/2/2020 00:00:00;;8
+66807700.00;0;0;0;0;167;"CERILUZ GERAÇÃO";"Cooperativa de Geração de Energia e Desenvolvimento Social Ltda. - Ceriluz Geração";11/2/2020 00:00:00;;8
+66807701.00;0;0;0;0;242;"PESQUEIRO";"Pesqueiro Energia S.A.";11/2/2020 00:00:00;;8
+66807702.00;0;0;0;0;168;"CERMISSÕES";"Cooperativa de Distribuição e Geração de Energia das Missões Ltda.-CERMISSÕES";11/2/2020 00:00:00;;8
+66807703.00;0;0;0;0;259;"CONCREMAT";"Concremat Engenharia e Tecnologia";11/2/2020 00:00:00;;8
+66807704.00;0;0;0;0;243;"PIRAPAMA";"Companhia Industrial Pirapama";11/2/2020 00:00:00;;8
+66807705.00;0;0;0;0;170;"CERTHIL";"Cooperativa de Energia e Desenvolvimento Rural Entre Rios Ltda.-CERTHIL";11/2/2020 00:00:00;;8
+66807706.00;0;0;0;0;269;"UFPA";"Universidade Federal do Pará";11/2/2020 00:00:00;;8
+66807707.00;0;0;0;0;172;"CFLCL";"Companhia Força e Luz Cataguases Leopoldina";11/2/2020 00:00:00;;8
+66807708.00;0;0;0;0;244;"PONTE DE PEDRA";"Ponte de Pedra Energética S.A.";11/2/2020 00:00:00;;8
+66807709.00;0;0;0;0;260;"HIDRECON";"Energia Independente";11/2/2020 00:00:00;;8
+66807710.00;0;0;0;0;245;"ROSAL";"Rosal Energia S.A.";11/2/2020 00:00:00;;8
+66807711.00;0;0;0;0;174;"PORTLAND ITAÚ";"Companhia Cimento Portland Itaú";11/2/2020 00:00:00;;8
+66807712.00;0;0;0;0;266;"SEMA-RS";"Secretaria de Meio Ambiente do Estado do Rio Grande do Sul";11/2/2020 00:00:00;;8
+66807713.00;0;0;0;0;246;"SANTANENSE";"Companhia Tecidos Santanense";11/2/2020 00:00:00;;8
+66807714.00;0;0;0;0;433;"RIO AGUA CLARA";"Rio água Clara Energia S.A.";11/2/2020 00:00:00;;8
+66807715.00;0;0;0;0;292;"ÁGUAS GUARIROBA";"Águas Guariroba S/A";11/2/2020 00:00:00;;8
+66807716.00;0;0;0;0;317;"L&S PAR";"L&S PAR LTDA e Alupar Investimento S.A.";11/2/2020 00:00:00;;8
+66807717.00;0;0;0;0;318;"BRAÇO NORTE";"Braço Norte Energia S.A.";11/2/2020 00:00:00;;8
+66807718.00;0;0;0;0;494;"CERBRANORTE";"Cerbranorte Geração S.A.";11/2/2020 00:00:00;;8
+66807719.00;0;0;0;0;312;"FOZ DO CHOPIM";"Foz do Chopim Energética Ltda.";11/2/2020 00:00:00;;8
+66807720.00;0;0;0;0;306;"PCH FIGUEIRA";"Consórcio PCH Figueira";11/2/2020 00:00:00;;8
+66807721.00;0;0;0;0;324;"SAJESA";"Salto Jauru Energética S.A-SAJESA";11/2/2020 00:00:00;;8
+66807722.00;0;0;0;0;307;"ELETROSSOL";"Centrais Elétricas Cassol  Ltda.-ELETROSSOL";11/2/2020 00:00:00;;8
+66807723.00;0;0;0;0;288;"ARROSSENSAL";"Arrossensal Agropecuária e Comercial S.A.";11/2/2020 00:00:00;;8
+66807724.00;0;0;0;0;309;"DOBREVÊ";"Dobrevê Energética";11/2/2020 00:00:00;;8
+66807725.00;0;0;0;0;395;"SPE CRISTINA";"SPE Cristina Energia S.A.";11/2/2020 00:00:00;;8
+66807726.00;0;0;0;0;403;"SEMAS-PA";"Secretaria do Meio Ambiente e Sustentabilidade do Estado do Pará";11/2/2020 00:00:00;;8
+66807727.00;0;0;0;0;313;"ISA";"Instituto Sócio Ambiental";11/2/2020 00:00:00;;8
+66807728.00;0;0;0;0;304;"CESS";"Companhia Energética São Salvador-CESS";11/2/2020 00:00:00;;8
+66807729.00;0;0;0;0;294;"CRIÚVA";"Criuva Energética S.A.";11/2/2020 00:00:00;;8
+66807730.00;0;0;0;0;295;"UHRGL";"Usina Hidrelétrica Rio Grande Ltda";11/2/2020 00:00:00;;8
+66807731.00;0;0;0;0;404;"JATAÍ";"Jataí Energética S.A";11/2/2020 00:00:00;;8
+66807732.00;0;0;0;0;289;"ELEJOR";"Centrais Elétricas do Rio Jordão S.A-ELEJOR";11/2/2020 00:00:00;;8
+66807733.00;0;0;0;0;290;"ELETROCESAR";"Eletro Cesar Geração de Energia Ltda";11/2/2020 00:00:00;;8
+66807734.00;0;0;0;0;408;"CONS.PESTRELA";"Consórcio AHE Porto Estrela";11/2/2020 00:00:00;;8
+66807735.00;0;0;0;0;409;"BONFANTE";"Bonfante Energética S.A";11/2/2020 00:00:00;;8
+66807736.00;0;0;0;0;414;"RIGESA";"Rigesa - Celulose, Papel e Embalagens Ltda.";11/2/2020 00:00:00;;8
+66807737.00;0;0;0;0;314;"RIACHÃO";"Riachão Energética S.A.";11/2/2020 00:00:00;;8
+66807738.00;0;0;0;0;315;"GACEL";"Galera Centrais Elétricas S.A-GACEL";11/2/2020 00:00:00;;8
+66807739.00;0;0;0;0;316;"PONTE ALTA";"Energética Ponte Alta S.A";11/2/2020 00:00:00;;8
+66807740.00;0;0;0;0;410;"COBUCCIO";"Cobuccio e Almeida Energia Ltda. - EPP";11/2/2020 00:00:00;;8
+66807741.00;0;0;0;0;417;"ENEBRAS";"Enebras Projetos de Usinas Hidrelétricas Ltda.";11/2/2020 00:00:00;;8
+66807742.00;0;0;0;0;691;"CIMAG";"Cimento Portland Mato Grosso S.A";11/2/2020 00:00:00;;8
+66807743.00;0;0;0;0;415;"HIDROTEL";"Hidrotel Hidrometria e Telemetria Ltda";11/2/2020 00:00:00;;8
+66807744.00;0;0;0;0;412;"NEOINVEST";"Neoinvest Investimentos S.A.";11/2/2020 00:00:00;;8
+66807745.00;0;0;0;0;416;"SANTA CRUZ";"Santa Cruz Geração de Energia S.A";11/2/2020 00:00:00;;8
+66807746.00;0;0;0;0;427;"ELETRISA";"Eletrisa - Operadora de Usinas Ltda.";11/2/2020 00:00:00;;8
+66807747.00;0;0;0;0;418;"SHM";"SHM - Sistemas Hídricos, Medição e Controle Ltda.";11/2/2020 00:00:00;;8
+66807748.00;0;0;0;0;431;"DESENVIX";"Desenvix S.A.";11/2/2020 00:00:00;;8
+66807749.00;0;0;0;0;428;"COCAIS GRANDE";"Cocais Grande Energia S/A";11/2/2020 00:00:00;;8
+66807750.00;0;0;0;0;421;"UNITINS";"Fundação Universidade do Tocantins";11/2/2020 00:00:00;;8
+66807751.00;0;0;0;0;283;"SEMARH-PI";"Secretaria do Meio Ambiente e Recursos Hídricos - PI";11/2/2020 00:00:00;;8
+66807752.00;0;0;0;0;301;"CN ENERGIA";"CN Energia S.A";11/2/2020 00:00:00;;8
+66807753.00;0;0;0;0;445;"ENERGEST";"Energest S.A";11/2/2020 00:00:00;;8
+66807754.00;0;0;0;0;443;"IFM";"IFM - Administração e Participação Ltda.";11/2/2020 00:00:00;;8
+66807755.00;0;0;0;0;444;"GERA";"GERA - Consultoria e Empreendimentos Energéticos Ltda";11/2/2020 00:00:00;;8
+66807756.00;0;0;0;0;446;"BJ. AGROP. LTDA";"Bom Jesus Agropecuária Ltda.";11/2/2020 00:00:00;;8
+66807757.00;0;0;0;0;448;"AMPARO";"Amparo Energia Ltda.";11/2/2020 00:00:00;;8
+66807758.00;0;0;0;0;450;"ESPORA";"Espora Energética S.A";11/2/2020 00:00:00;;8
+66807759.00;0;0;0;0;467;"BROOKFIELD";"Brookfield Energia Renovável  S.A";11/2/2020 00:00:00;;8
+66807760.00;0;0;0;0;319;"SÃO SIMÃO";"São Simão Energia S.A";11/2/2020 00:00:00;;8
+66807761.00;0;0;0;0;320;"CARANGOLA";"Carangola Energia S.A";11/2/2020 00:00:00;;8
+66807762.00;0;0;0;0;468;"HOBECO";"Hobeco Ltda.";11/2/2020 00:00:00;;8
+66807763.00;0;0;0;0;321;"CALHEIROS";"Calheiros Energia S.A.";11/2/2020 00:00:00;;8
+66807764.00;0;0;0;0;331;"CONS.UHEGA";"Consórcio UHE Guilman Amorim";11/2/2020 00:00:00;;8
+66807765.00;0;0;0;0;322;"FUNIL";"Funil Energia S.A.";11/2/2020 00:00:00;;8
+66807766.00;0;0;0;0;469;"RIO SUCURIÚ";"Rio Sucuriú Energia S.A.";11/2/2020 00:00:00;;8
+66807767.00;0;0;0;0;470;"QUANTA";"Quanta Geração S.A.";11/2/2020 00:00:00;;8
+66807768.00;0;0;0;0;327;"VARZEA DO JUBA";"Várzea do Juba Energética S.A.";11/2/2020 00:00:00;;8
+66807769.00;0;0;0;0;190;"ADASA";"Agência Reguladora de Águas e Saneamento - DF";11/2/2020 00:00:00;;8
+66807770.00;0;0;0;0;335;"PAMPEANA";"Pampeana Energética S.A.";11/2/2020 00:00:00;;8
+66807771.00;0;0;0;0;345;"MUXFELDT";"Muxfeldt Marin e Cia.";11/2/2020 00:00:00;;8
+66807772.00;0;0;0;0;328;"OMBREIRAS";"Ombreiras Energética S.A.";11/2/2020 00:00:00;;8
+66807773.00;0;0;0;0;329;"BRENNAND";"Brennand Energia Manopla S.A";11/2/2020 00:00:00;;8
+66807774.00;0;0;0;0;330;"INDIAVAI ENERG";"Indiavai Energética  S.A.";11/2/2020 00:00:00;;8
+66807775.00;0;0;0;0;375;"COGESDEC";"Conselho dos Gestores Municipais de Defesa Civil do Est. do Rio de Janeiro";11/2/2020 00:00:00;;8
+66807776.00;0;0;0;0;339;"BURITI";"Buriti Energia S.A";11/2/2020 00:00:00;;8
+66807777.00;0;0;0;0;350;"ALTO JAURU";"Alto Jauru Energética S.A";11/2/2020 00:00:00;;8
+66807778.00;0;0;0;0;365;"TOCANTINS";"Tocantins Energética S.A.";11/2/2020 00:00:00;;8
+66807779.00;0;0;0;0;453;"SÃO GERALDO";"São Geraldo Energética S/A";11/2/2020 00:00:00;;8
+66807780.00;0;0;0;0;344;"CBR";"Cachoeira do Brumado Energia Elétrica LTDA.";11/2/2020 00:00:00;;8
+66807781.00;0;0;0;0;381;"SRHE-PE";"Secretaria de Recursos Hídricos e Energéticos - PE";11/2/2020 00:00:00;;8
+66807782.00;0;0;0;0;437;"CONS.CECS";"Consórcio Energético Cruzeiro do Sul";11/2/2020 00:00:00;;8
+66807783.00;0;0;0;0;382;"COMPESA";"Companhia Pernambucana de Saneamento";11/2/2020 00:00:00;;8
+66807784.00;0;0;0;0;383;"IPA-PE";"Instituto Agronômico de Pernambuco";11/2/2020 00:00:00;;8
+66807785.00;0;0;0;0;360;"ABRANJO";"Abranjo Geração de Energia S.A.";11/2/2020 00:00:00;;8
+66807786.00;0;0;0;0;361;"BROOKFIELD M.G.";"Brookfield Energia Renovavel Minas Gerais S.A.";11/2/2020 00:00:00;;8
+66807787.00;0;0;0;0;401;"ASEA";"Água e Solo Estudos Ambientais";11/2/2020 00:00:00;;8
+66807788.00;0;0;0;0;402;"VÊNETO";"Vêneto Energética S.A.";11/2/2020 00:00:00;;8
+66807789.00;0;0;0;0;278;"ENERPEIXE";"Enerpeixe S.A";11/2/2020 00:00:00;;8
+66807790.00;0;0;0;0;1059;"STATKRAFT";"Statkraft Energias Renováveis S.A.";11/2/2020 00:00:00;;8
+66807791.00;0;0;0;0;203;"ITAMARATI";"Itamarati Norte S.A - Agropecuária";11/2/2020 00:00:00;;8
+66807792.00;0;0;0;0;204;"CEC";"Companhia Energética Chapecó";11/2/2020 00:00:00;;8
+66807793.00;0;0;0;0;280;"L.D.Q.S.P.E.";"L.D.Q.S.P.E. Geração de Energia e Participações Ltda.";11/2/2020 00:00:00;;8
+66807794.00;0;0;0;0;205;"FERTILIGAS";"Fertiligas Industria e Comércio Ltda.";11/2/2020 00:00:00;;8
+66807795.00;0;0;0;0;281;"HIDROTÉCNICA";"Hidrotécnica Serviços Técnicos Ltda";11/2/2020 00:00:00;;8
+66807796.00;0;0;0;0;206;"ITAPEBI";"Itapebi Geração de Energia S.A.";11/2/2020 00:00:00;;8
+66807797.00;0;0;0;0;207;"PRIMO TEDESCO";"Fabrica de Papel Primo Tedesco S.A.";11/2/2020 00:00:00;;8
+66807798.00;0;0;0;0;208;"FLP";"Ferro Ligas Piracicaba Ltda.-FLP";11/2/2020 00:00:00;;8
+66807799.00;0;0;0;0;209;"QUEIROS GALVÃO";"Queiros Galvão Elétrica S.A.";11/2/2020 00:00:00;;8
+66807800.00;0;0;0;0;210;"INVESTCO";"Investco S.A.";11/2/2020 00:00:00;;8
+66807801.00;0;0;0;0;211;"ELEKTRO";"Instituto Elektro";11/2/2020 00:00:00;;8
+66807802.00;0;0;0;0;212;"CER";"Centrais Elétricas de Roraima";11/2/2020 00:00:00;;8
+66807803.00;0;0;0;0;213;"CESC";"Companhia Energética Santa Clara-CESC";11/2/2020 00:00:00;;8
+66807804.00;0;0;0;0;214;"VISTA";"Bela Vista Geração de Energia S.A.";11/2/2020 00:00:00;;8
+66807805.00;0;0;0;0;215;"COTIPORÃ";"Cotiporã Energética S.A.";11/2/2020 00:00:00;;8
+66807806.00;0;0;0;0;216;"CLFSC";"Companhia Luz e Força Santa Cruz";11/2/2020 00:00:00;;8
+66807807.00;0;0;0;0;217;"PANAMBI";"Hidroelétrica Panambi S.A.";11/2/2020 00:00:00;;8
+66807808.00;0;0;0;0;218;"CSPE";"CSPE - Companhia Sul Paulista de Energia";11/2/2020 00:00:00;;8
+66807809.00;0;0;0;0;397;"SANTA FÉ";"Santa Fé Energia S.A";11/2/2020 00:00:00;;8
+66807810.00;0;0;0;0;459;"LINHA EMILIA";"Linha Emilia Energética S.A.";11/2/2020 00:00:00;;8
+66807811.00;0;0;0;0;398;"BME CAP. CONV.";"Capão da Convenção Energia S.A-BME";11/2/2020 00:00:00;;8
+66807812.00;0;0;0;0;352;"GRANDVIEW";"Grandview Energia LTDA";11/2/2020 00:00:00;;8
+66807813.00;0;0;0;0;386;"SEMA-MS";"Secretaria de Meio Ambiente do Estado do Mato Grosso do Sul";11/2/2020 00:00:00;;8
+66807814.00;0;0;0;0;702;"ENEL DA FAZENDA";"Enel Green Power da Fazenda S.A";11/2/2020 00:00:00;;8
+66807815.00;0;0;0;0;704;"ENEL BOI";"Enel Green Power Cabeça de Boi S.A";11/2/2020 00:00:00;;8
+66807816.00;0;0;0;0;758;"CNB";"Companhia de Nickel do Brasil-CNB";11/2/2020 00:00:00;;8
+66807817.00;0;0;0;0;1062;"RIO PARANÁ";"Rio Paraná Energia S.A.";11/2/2020 00:00:00;;8
+66807818.00;0;0;0;0;760;"CERR";"Companhia Energética de Roraima-CERR";11/2/2020 00:00:00;;8
+66807819.00;0;0;0;0;258;"SEMARH-TO";"Secretaria do Meio Ambiente e Recursos Hídricos - TO";11/2/2020 00:00:00;;8
+66807820.00;0;0;0;0;1041;"TOUROS IV";"Touros IV Energética S.A.";11/2/2020 00:00:00;;8
+66807821.00;0;0;0;0;763;"ELMA";"Elma Eletricidade de Mato Grosso Ltda.";11/2/2020 00:00:00;;8
+66807822.00;0;0;0;0;764;"CAMPO DE CIMA";"Energética Campo de Cima da Serra Ltda.";11/2/2020 00:00:00;;8
+66807823.00;0;0;0;0;400;"PCH TS S.A.";"Pequena Central Hidrelétrica TS S.A.";11/2/2020 00:00:00;;8
+66807824.00;0;0;0;0;766;"GERDAU";"Gerdau Aços Longos S.A";11/2/2020 00:00:00;;8
+66807825.00;0;0;0;0;767;"SUCUPIRA";"Hidrelétrica Sucupira S.A";11/2/2020 00:00:00;;8
+66807826.00;0;0;0;0;768;"ÂNGELO CASSOL";"Hidroelétrica Ângelo Cassol Ltda.";11/2/2020 00:00:00;;8
+66807827.00;0;0;0;0;769;"CACHIMBO ALTO";"Hidroelétrica Cachimbo Alto Ltda.";11/2/2020 00:00:00;;8
+66807828.00;0;0;0;0;770;"INXU";"Inxú Geradora e Comercializadora de Energia Elétrica S.A.";11/2/2020 00:00:00;;8
+66807829.00;0;0;0;0;771;"JMALUCELLI";"J. Malucelli Construtora de Obras S/A";11/2/2020 00:00:00;;8
+66807830.00;0;0;0;0;411;"SF PRODUÇÃO";"SF Produção de Energia Elétrica Ltda.";11/2/2020 00:00:00;;8
+66807831.00;0;0;0;0;773;"NOVO MUNDO";"Novo Mundo Energética S.A";11/2/2020 00:00:00;;8
+66807832.00;0;0;0;0;774;"BRASIL FOODS";"Brasil Foods";11/2/2020 00:00:00;;8
+66807833.00;0;0;0;0;775;"PEZZI";"Pezzi Energética S.A";11/2/2020 00:00:00;;8
+66807834.00;0;0;0;0;776;"PIRAPORA";"Pirapora Energia S.A";11/2/2020 00:00:00;;8
+66807835.00;0;0;0;0;777;"RIALMA V";"Rialma Companhia Energética  V S.A";11/2/2020 00:00:00;;8
+66807836.00;0;0;0;0;778;"RVERDE-QUEBRADA";"Rio Verde Energia S.A - Canoa Quebrada";11/2/2020 00:00:00;;8
+66807837.00;0;0;0;0;779;"SCRUZ- POWER";"Santa Cruz Power Corporation Usinas Hidroelétricas S.A";11/2/2020 00:00:00;;8
+66807838.00;0;0;0;0;780;"SF ENERGÉTICA";"Santa Fé Energética S.A";11/2/2020 00:00:00;;8
+66807839.00;0;0;0;0;781;"SÃO SEBASTIÃO";"São Sebastião Empreendimentos S.A";11/2/2020 00:00:00;;8
+66807840.00;0;0;0;0;782;"SPE ALTO GARCIA";"SPE Alto Garcia Energética S.A.";11/2/2020 00:00:00;;8
+66807841.00;0;0;0;0;783;"TAPIRAPUAN";"Tapirapuan S.A Indústria e Comércio";11/2/2020 00:00:00;;8
+66807842.00;0;0;0;0;784;"CONS.FUNIL";"Consórcio AHE Funil";11/2/2020 00:00:00;;8
+66807843.00;0;0;0;0;498;"IG. CAARATINGA";"Iguaçu Caaratinga Energia Ltda.";11/2/2020 00:00:00;;8
+66807844.00;0;0;0;0;786;"CONS.ATERPA";"Consórcio Aterpa CCM";11/2/2020 00:00:00;;8
+66807845.00;0;0;0;0;787;"CONS.CAP.BRANCO";"Consórcio Capim Branco Energia";11/2/2020 00:00:00;;8
+66807846.00;0;0;0;0;788;"CONS.CEMIG-CEB";"Consorcio CEMIG-CEB";11/2/2020 00:00:00;;8
+66807847.00;0;0;0;0;789;"CONS.IGARAPAVA";"Consórcio da Usina Hidreletrica de Igarapava";11/2/2020 00:00:00;;8
+66807848.00;0;0;0;0;513;"CALDEIRÃO S.A.";"Empresa de Energia Cachoeira do Caldeirão S.A.";11/2/2020 00:00:00;;8
+66807849.00;0;0;0;0;791;"CONS.CESTE";"Consórcio Estreito Energia - CESTE";11/2/2020 00:00:00;;8
+66807850.00;0;0;0;0;792;"CONS.GESAI";"Consórcio GESAI - Geração Santa Isabel";11/2/2020 00:00:00;;8
+66807851.00;0;0;0;0;793;"CONS.AIMORÉS";"Consórcio da Hidrelétrica Aimorés";11/2/2020 00:00:00;;8
+66807852.00;0;0;0;0;794;"CONS.RIOGRANDE";"Consórcio PCH Alto Rio Grande";11/2/2020 00:00:00;;8
+66807853.00;0;0;0;0;795;"CAZUZA";"Cazuza Ferreira Energética S.A.";11/2/2020 00:00:00;;8
+66807854.00;0;0;0;0;796;"SALTO NATAL";"Energética Salto Natal S.A.";11/2/2020 00:00:00;;8
+66807855.00;0;0;0;0;797;"CONS.SELT";"Consórcio SELT";11/2/2020 00:00:00;;8
+66807856.00;0;0;0;0;798;"CONS.ARROZEIRA";"Consórcio PCH Arrozeira Meyer";11/2/2020 00:00:00;;8
+66807857.00;0;0;0;0;799;"CONS.BAGUARI";"Consórcio UHE Baguari";11/2/2020 00:00:00;;8
+66807858.00;0;0;0;0;800;"CONS.CANOAS";"Consórcio UHE Canoas";11/2/2020 00:00:00;;8
+66807859.00;0;0;0;0;802;"CONS.DFRANCISCA";"Consórcio UHE Dona Francisca";11/2/2020 00:00:00;;8
+66807860.00;0;0;0;0;124;"SIMEHGO";"Sistema de Meteorologia e Hidrologia do Estado de Goiás";11/2/2020 00:00:00;;8
+66807861.00;0;0;0;0;119;"DINFRA";"Departamento Nacional de Infra Estrutura";11/2/2020 00:00:00;;8
+66807862.00;0;0;0;0;130;"ENERSUL";"Empresa Energética do Mato Grosso do Sul";11/2/2020 00:00:00;;8
+66807863.00;0;0;0;0;132;"CERJ";"Companhia de Eletricidade do Rio de Janeiro";11/2/2020 00:00:00;;8
+66807864.00;0;0;0;0;137;"CBA";"Companhia Brasileira de Alumínio-CBA";11/2/2020 00:00:00;;8
+66807865.00;0;0;0;0;277;"TAIRETÁ";"Tairetá Eletricidade Ltda.";11/2/2020 00:00:00;;8
+66807866.00;0;0;0;0;731;"DIVISA";"Divisa Energia S.A";11/2/2020 00:00:00;;8
+66807867.00;0;0;0;0;291;"IGARN-RN";"Instituto de Gestão das Águas do Estado do Rio Grande do Norte";11/2/2020 00:00:00;;8
+66807868.00;0;0;0;0;310;"LAFARGE";"Lafarge Brasil S.A.";11/2/2020 00:00:00;;8
+66807869.00;0;0;0;0;449;"TANGARÁ";"Tangará Energética S.A.";11/2/2020 00:00:00;;8
+66807870.00;0;0;0;0;466;"PANTANAL";"Pantanal Energética Ltda.";11/2/2020 00:00:00;;8
+66807871.00;0;0;0;0;341;"FLOW";"Flow engenharia";11/2/2020 00:00:00;;8
+66807872.00;0;0;0;0;732;"ILHA COMPRIDA";"Ilha Comprida Energia S.A";11/2/2020 00:00:00;;8
+66807873.00;0;0;0;0;1058;"AGROINDUSTRIAL";"Cooperativa Agrária Agroindustrial";11/2/2020 00:00:00;;8
+66807874.00;0;0;0;0;734;"MOHINI";"Mohini Empreendimentos e Participações";11/2/2020 00:00:00;;8
+66807875.00;0;0;0;0;735;"LINHA JACINTO";"Coogerva Linha Jacinto Energia S.A";11/2/2020 00:00:00;;8
+66807876.00;0;0;0;0;736;"LINHA APARECIDA";"Coogerva Linha Aparecida Energia S.A";11/2/2020 00:00:00;;8
+66807877.00;0;0;0;0;737;"QUARTEL UM";"Quartel Um Energética S.A.";11/2/2020 00:00:00;;8
+66807878.00;0;0;0;0;738;"QUARTEL DOIS";"Quartel Dois Energética S.A";11/2/2020 00:00:00;;8
+66807879.00;0;0;0;0;739;"QUARTEL TRES";"Quartel Três Energética S.A";11/2/2020 00:00:00;;8
+66807880.00;0;0;0;0;740;"POÇO FUNDO";"Poço Fundo Energia S.A";11/2/2020 00:00:00;;8
+66807881.00;0;0;0;0;741;"ZÉ TUNIN";"Zé Tunin S.A";11/2/2020 00:00:00;;8
+66807882.00;0;0;0;0;742;"JESUITA";"Jesuíta Energia S.A";11/2/2020 00:00:00;;8
+66807883.00;0;0;0;0;743;"MATA VELHA";"Mata Velha Energética S.A";11/2/2020 00:00:00;;8
+66807884.00;0;0;0;0;744;"PARANÁ";"Paraná Geração de Energia S.A";11/2/2020 00:00:00;;8
+66807885.00;0;0;0;0;745;"SEGREDO";"Segredo Energia S.A";11/2/2020 00:00:00;;8
+66807886.00;0;0;0;0;746;"CAVALINHOS II";"Serra dos Cavalinhos II Energética S.A";11/2/2020 00:00:00;;8
+66807887.00;0;0;0;0;747;"EUCLIDES";"Euclides Maciel Energética S.A.";11/2/2020 00:00:00;;8
+66807888.00;0;0;0;0;748;"MACAÚBAS";"Macaúbas Energia Renovável Ltda";11/2/2020 00:00:00;;8
+66807889.00;0;0;0;0;749;"MF PROJETOS";"MF Projetos em Energia Ltda";11/2/2020 00:00:00;;8
+66807890.00;0;0;0;0;750;"TELES PIRES";"Companhia Hidrelétrica Teles Pires";11/2/2020 00:00:00;;8
+66807891.00;0;0;0;0;751;"RIALMA I";"Centrais Elétricas Rio das Almas S.A-RIALMA";11/2/2020 00:00:00;;8
+66807892.00;0;0;0;0;752;"RIALMA III";"Rialma Companhia Energética III S.A";11/2/2020 00:00:00;;8
+66807893.00;0;0;0;0;753;"RIALMA II";"Rialma Companhia Energética II S.A";11/2/2020 00:00:00;;8
+66807894.00;0;0;0;0;547;"SÃO MAURICIO";"Geradora de Energia São Maurício S.A";11/2/2020 00:00:00;;8
+66807895.00;0;0;0;0;548;"GERAOESTE";"Usinas Elétricas do Oeste S.A.";11/2/2020 00:00:00;;8
+66807896.00;0;0;0;0;549;"GUARANTÃ";"Guarantã Energética Ltda.";11/2/2020 00:00:00;;8
+66807897.00;0;0;0;0;550;"HACKER";"Hacker Industrial Ltda.";11/2/2020 00:00:00;;8
+66807898.00;0;0;0;0;551;"ÁGUASCLARAS";"Hidrelétrica Águas Claras Ltda.";11/2/2020 00:00:00;;8
+66807899.00;0;0;0;0;552;"AREIA BRANCA";"Hidrelétrica Areia Branca S.A";11/2/2020 00:00:00;;8
+66807900.00;0;0;0;0;553;"CACHOEIRÃO";"Hidrelétrica Cachoeirão S.A";11/2/2020 00:00:00;;8
+66807901.00;0;0;0;0;554;"SERRAVELHA";"Hidrelétrica Serra Velha Ltda.";11/2/2020 00:00:00;;8
+66807902.00;0;0;0;0;555;"MALAGONE";"Hidrelétrica Malagone S.A";11/2/2020 00:00:00;;8
+66807903.00;0;0;0;0;556;"PEQUI";"Hidrelétrica Pequi S.A";11/2/2020 00:00:00;;8
+66807904.00;0;0;0;0;557;"PIPOCA";"Hidrelétrica Pipoca S.A";11/2/2020 00:00:00;;8
+66807905.00;0;0;0;0;558;"ROSSI";"Hidrelétrica Rossi Ltda.";11/2/2020 00:00:00;;8
+66807906.00;0;0;0;0;559;"BERGAMIN";"Hidroelétrica Bergamin Ltda.";11/2/2020 00:00:00;;8
+66807907.00;0;0;0;0;560;"MINÉ";"Hidroelétrica Cachoeira do Miné S.A";11/2/2020 00:00:00;;8
+66807908.00;0;0;0;0;561;"CHUPINGUAIA";"Hidroelétrica Chupinguaia Ltda.";11/2/2020 00:00:00;;8
+66807909.00;0;0;0;0;562;"PARDOS";"Hidroelétrica Pardos S.A.";11/2/2020 00:00:00;;8
+66807910.00;0;0;0;0;563;"HIDROPOWER";"Hidropower Energia S.A";11/2/2020 00:00:00;;8
+66807911.00;0;0;0;0;564;"HIDROSSOL";"Hidrossol Hidroelétricas Cassol Ltda.";11/2/2020 00:00:00;;8
+66807912.00;0;0;0;0;565;"KUHLEMANN";"Hydro Kuhlemann Geração Ltda.";11/2/2020 00:00:00;;8
+66807913.00;0;0;0;0;566;"IBIRAMA";"Ibirama Energética S.A";11/2/2020 00:00:00;;8
+66807914.00;0;0;0;0;567;"IBITURUNA";"Ibituruna Hidrelétrica S.A";11/2/2020 00:00:00;;8
+66807915.00;0;0;0;0;568;"IBÓ";"Ibó Energética S.A";11/2/2020 00:00:00;;8
+66807916.00;0;0;0;0;303;"CEBEL";"Centrais Elétricas Belém S.A-CEBEL";11/2/2020 00:00:00;;8
+66807917.00;0;0;0;0;569;"IJUI ENERGIA";"Ijuí Energia S.A";11/2/2020 00:00:00;;8
+66807918.00;0;0;0;0;570;"INDAIÁ GRANDE";"Indaiá Grande Energia S.A";11/2/2020 00:00:00;;8
+66807919.00;0;0;0;0;571;"INDAIAZINHO";"Indaiazinho Energia S.A";11/2/2020 00:00:00;;8
+66807920.00;0;0;0;0;572;"IRCEL";"Irmãos Rodrigues Centrais Elétricas Ltda.-IRCEL";11/2/2020 00:00:00;;8
+66807921.00;0;0;0;0;573;"ISAMU IKEDA";"Isamu Ikeda Energia S.A";11/2/2020 00:00:00;;8
+66807922.00;0;0;0;0;574;"ITAGUAÇU";"Itaguaçu Energia S.A";11/2/2020 00:00:00;;8
+66807923.00;0;0;0;0;575;"FUNDO";"Córrego Fundo SPE Ltda.";11/2/2020 00:00:00;;8
+66807924.00;0;0;0;0;447;"HIDROMEC";"Hidromec - Industria e Comércio Ltda.";11/2/2020 00:00:00;;8
+66807925.00;0;0;0;0;576;"PAPER";"Internacional Paper do Brasil Ltda.";11/2/2020 00:00:00;;8
+66807926.00;0;0;0;0;577;"JURUMIRIM";"Jurumirim Energética S.A";11/2/2020 00:00:00;;8
+66807927.00;0;0;0;0;578;"LAGOAGRANDE";"Lagoa Grande Energética S.A";11/2/2020 00:00:00;;8
+66807928.00;0;0;0;0;579;"LARANJINHA";"Laranjinha Energética Ltda.";11/2/2020 00:00:00;;8
+66807929.00;0;0;0;0;580;"VALLE";"Valle Sul Energia S.A.";11/2/2020 00:00:00;;8
+66807930.00;0;0;0;0;581;"LIGHTGER";"Lightger S.A";11/2/2020 00:00:00;;8
+66807931.00;0;0;0;0;582;"LUDESA";"Ludesa Energética S.A";11/2/2020 00:00:00;;8
+66807932.00;0;0;0;0;583;"LUMBRÁS";"Lumbrás Energética S.A";11/2/2020 00:00:00;;8
+66807933.00;0;0;0;0;585;"MANGUEIRA";"Mangueira Pedra Energia Ltda.";11/2/2020 00:00:00;;8
+66807934.00;0;0;0;0;586;"MARACANÃ";"Maracanã Energética S.A";11/2/2020 00:00:00;;8
+66807935.00;0;0;0;0;803;"CONS.GUAPORÉ";"Consórcio UHE Guaporé";11/2/2020 00:00:00;;8
+66807936.00;0;0;0;0;176;"COPREL";"Cooperativa de Geração de Energia e Desenvolvimento-Coprel";11/2/2020 00:00:00;;8
+66807937.00;0;0;0;0;413;"UFAC";"Universidade Federal do Estado do Acre";11/2/2020 00:00:00;;8
+66807938.00;0;0;0;0;177;"UNICAMP";"Universidade de Campinas";11/2/2020 00:00:00;;8
+66807939.00;0;0;0;0;463;"SPE CRAVARI";"SPE Cravari Geração de Energia S.A";11/2/2020 00:00:00;;8
+66807940.00;0;0;0;0;337;"EEPP";"Empresa Energética Porto das Pedras S.A-EEPP";11/2/2020 00:00:00;;8
+66807941.00;0;0;0;0;804;"CONS.ITÁ";"Consórcio UHE Itá";11/2/2020 00:00:00;;8
+66807942.00;0;0;0;0;298;"ANTÔNIO FORNASA";"Antônio Fornasa Administradora de Bens Ltda.";11/2/2020 00:00:00;;8
+66807943.00;0;0;0;0;805;"ITAOCARA";"Usina Hidrelétrica Etaocara S.A.";11/2/2020 00:00:00;;8
+66807944.00;0;0;0;0;338;"COPPE/UFRJ";"COPPE/UFRJ";11/2/2020 00:00:00;;8
+66807945.00;0;0;0;0;343;"IGEO/UFRJ";"IGEO/UFRJ";11/2/2020 00:00:00;;8
+66807946.00;0;0;0;0;347;"UERJ/UFF";"UERJ/UFF";11/2/2020 00:00:00;;8
+66807947.00;0;0;0;0;806;"CONS.JAURU";"Consórcio UHE Jauru";11/2/2020 00:00:00;;8
+66807948.00;0;0;0;0;807;"CONS.LUISMAGA";"Consórcio UHE Luis Eduardo Magalhães";11/2/2020 00:00:00;;8
+66807949.00;0;0;0;0;808;"CONS.MACHADINHO";"Consórcio UHE Machadinho";11/2/2020 00:00:00;;8
+66807950.00;0;0;0;0;809;"CONS.MANSO";"Consórcio UHE Manso";11/2/2020 00:00:00;;8
+66807951.00;0;0;0;0;810;"CONS.PAI QUERÊ";"Consórcio UHE Pai Querê";11/2/2020 00:00:00;;8
+66807952.00;0;0;0;0;811;"CONS.RISOLETA";"Consórcio UHE Risoleta Neves";11/2/2020 00:00:00;;8
+66807953.00;0;0;0;0;812;"JARI";"Companhia Energética do Jari S.A.";11/2/2020 00:00:00;;8
+66807954.00;0;0;0;0;639;"VOTORSIDERURGIA";"Votorantim Siderurgia S.A.";11/2/2020 00:00:00;;8
+66807955.00;0;0;0;0;472;"ANHAMBI";"Anhambi Agroindustrial Ltda.";11/2/2020 00:00:00;;8
+66807956.00;0;0;0;0;473;"AQUARIUS";"Aquarius Energética S.A";11/2/2020 00:00:00;;8
+66807957.00;0;0;0;0;474;"RBO";"RBO Energia S.A";11/2/2020 00:00:00;;8
+66807958.00;0;0;0;0;475;"ARCELOR";"Arcelor Mittal Brasil S.A.";11/2/2020 00:00:00;;8
+66807959.00;0;0;0;0;476;"AREIA";"Areia Energia S.A";11/2/2020 00:00:00;;8
+66807960.00;0;0;0;0;477;"AUTÓDROMO";"Autódromo Energética S.A";11/2/2020 00:00:00;;8
+66807961.00;0;0;0;0;478;"BRAÚNA";"Barra do Braúna Energética S.A";11/2/2020 00:00:00;;8
+66807962.00;0;0;0;0;479;"BCSERVICE";"BC Service Energética S.A.";11/2/2020 00:00:00;;8
+66807963.00;0;0;0;0;480;"BOA FÉ";"Boa Fé Energética S.A";11/2/2020 00:00:00;;8
+66807964.00;0;0;0;0;481;"BOA SORTE";"Boa Sorte Energética S.A";11/2/2020 00:00:00;;8
+66807965.00;0;0;0;0;482;"BONANZA";"Bonanza Energética Ltda.";11/2/2020 00:00:00;;8
+66807966.00;0;0;0;0;483;"CAETÉ";"Caeté Empreendimentos Energético Ltda.";11/2/2020 00:00:00;;8
+66807967.00;0;0;0;0;484;"CALDAS";"Caldas Energética Ltda.";11/2/2020 00:00:00;;8
+66807968.00;0;0;0;0;485;"CAMPOS DE JULIO";"Campos de Júlio Energia S.A";11/2/2020 00:00:00;;8
+66807969.00;0;0;0;0;486;"CASA DE PEDRA";"Casa de Pedra Energia S.A";11/2/2020 00:00:00;;8
+66807970.00;0;0;0;0;487;"CEMIG PCH";"Cemig PCH S.A";11/2/2020 00:00:00;;8
+66807971.00;0;0;0;0;488;"CENH";"Companhia Energética Novo Horizonte-CENH";11/2/2020 00:00:00;;8
+66807972.00;0;0;0;0;489;"CANDEEIRO";"Centrais Candeeiro de Energia S/A";11/2/2020 00:00:00;;8
+66807973.00;0;0;0;0;490;"RPEE";"Companhia RPee Energia";11/2/2020 00:00:00;;8
+66807974.00;0;0;0;0;491;"RIO TIGRE";"Centrais Elétricas Rio Tigre S.A";11/2/2020 00:00:00;;8
+66807975.00;0;0;0;0;492;"DARDANELOS";"Centrais Elétricas Salto dos Dardanelos S.A";11/2/2020 00:00:00;;8
+66807976.00;0;0;0;0;493;"ANHANGUERA";"Central Elétrica Anhanguera S.A";11/2/2020 00:00:00;;8
+66807977.00;0;0;0;0;1048;"ALIANÇA";"Aliança Geração de Energia S.A.";11/2/2020 00:00:00;;8
+66807978.00;0;0;0;0;495;"CGEDTJ";"Cooperativa de Geração de Energia e Desenvolvimento Taquari-Jacuí";11/2/2020 00:00:00;;8
+66807979.00;0;0;0;0;496;"MORRINHOS";"Morrinhos Geração e Comércio de Energia Elétrica Ltda.";11/2/2020 00:00:00;;8
+66807980.00;0;0;0;0;497;"CERTEL RASTRO";"Certel Rastro de Auto Geração de Energia S.A";11/2/2020 00:00:00;;8
+66807981.00;0;0;0;0;954;"DUALBASE";"Dualbase Tecnologia Eletronica Ltda";11/2/2020 00:00:00;;8
+66807982.00;0;0;0;0;499;"AGUALIMPA";"Água Limpa Energia S.A";11/2/2020 00:00:00;;8
+66807983.00;0;0;0;0;1131;"AT&T";"AT&T Energia S.A.";11/2/2020 00:00:00;;8
+66807984.00;0;0;0;0;502;"RENOVÁVEIS";"CPFL Energias Renováveis S.A.";11/2/2020 00:00:00;;8
+66807985.00;0;0;0;0;503;"CIABS";"Companhia Bom Sucesso de Eletricidade-CIABS";11/2/2020 00:00:00;;8
+66807986.00;0;0;0;0;504;"HTEXTIL";"Horizonte Têxtil Ltda.";11/2/2020 00:00:00;;8
+66807987.00;0;0;0;0;505;"CIF";"Companhia Industrial Fluminense - CIF";11/2/2020 00:00:00;;8
+66807988.00;0;0;0;0;1132;"LIMPA";"Energia Limpa Participações Ltda.";11/2/2020 00:00:00;;8
+66807989.00;0;0;0;0;956;"CIMEHGO";"Centro de Informações Meteorológicas e Hidrológicas do Estado de Goiás";11/2/2020 00:00:00;;8
+66807990.00;0;0;0;0;508;"CJ HIDRO";"CJ Hydro - Geração de Energia S. A";11/2/2020 00:00:00;;8
+66807991.00;0;0;0;0;509;"COMODORO";"Comodoro Energética S.A";11/2/2020 00:00:00;;8
+66807992.00;0;0;0;0;510;"COMOSA";"Concessionária Mosquitão S.A-COMOSA";11/2/2020 00:00:00;;8
+66807993.00;0;0;0;0;511;"ITUMIRIM";"Companhia Energética Itumirim";11/2/2020 00:00:00;;8
+66807994.00;0;0;0;0;512;"FIGUEIRÓPOLIS";"Companhia Hidroelétrica Figueirópolis";11/2/2020 00:00:00;;8
+66807995.00;0;0;0;0;514;"CONFLUÊNCIA";"Confluência Energia S.A";11/2/2020 00:00:00;;8
+66807996.00;0;0;0;0;515;"PREART";"Construtora Preart Ltda.";11/2/2020 00:00:00;;8
+66807997.00;0;0;0;0;516;"CONTESTADO";"Contestado Energética S.A";11/2/2020 00:00:00;;8
+66807998.00;0;0;0;0;517;"COOPERZEM";"Cooperzem Cooperativa de Geração de Energia e Desenvolvimento - Cooperzem Geração";11/2/2020 00:00:00;;8
+66807999.00;0;0;0;0;518;"COQUEIRAL";"Coqueiral Energética Ltda.";11/2/2020 00:00:00;;8
+66808000.00;0;0;0;0;519;"CORONEL ARAUJO";"Coronel Araújo Energética S.A";11/2/2020 00:00:00;;8
+66808001.00;0;0;0;0;520;"CORUMBÁ COM";"Corumbá Concessões S.A";11/2/2020 00:00:00;;8
+66808002.00;0;0;0;0;521;"PCH AGUTI";"COTESA Geradora de Energia - PCH Aguti Ltda.";11/2/2020 00:00:00;;8
+66808003.00;0;0;0;0;522;"PCH NOVA TRENTO";"COTESA Geradora de Energia - PCH Nova Trento Ltda.";11/2/2020 00:00:00;;8
+66808004.00;0;0;0;0;523;"PCH SEBASTIÃO";"COTESA Geradora de Energia - PCH São Sebastião Ltda.";11/2/2020 00:00:00;;8
+66808005.00;0;0;0;0;524;"PCH VALENTIN";"COTESA Geradora de Energia - PCH São Valentin Ltda.";11/2/2020 00:00:00;;8
+66808006.00;0;0;0;0;525;"COVÓ";"Covó Geração de Energia Elétrica Ltda.";11/2/2020 00:00:00;;8
+66808007.00;0;0;0;0;196;"SAMARCO";"Samarco Mineração S.A.";11/2/2020 00:00:00;;8
+66808008.00;0;0;0;0;297;"DA ILHA";"Da Ilha Energética S.A.";11/2/2020 00:00:00;;8
+66808009.00;0;0;0;0;197;"TROMBINE";"Trombine Papel e Embalagens S.A.";11/2/2020 00:00:00;;8
+66808010.00;0;0;0;0;326;"BARRA GRANDE";"Madereira Barra Grande Ltda";11/2/2020 00:00:00;;8
+66808011.00;0;0;0;0;340;"ANGLO GOLD";"Anglogold Ashanti Córrego do Sítio Mineração Ltda.";11/2/2020 00:00:00;;8
+66808012.00;0;0;0;0;527;"DME";"DME Energética Ltda.";11/2/2020 00:00:00;;8
+66808013.00;0;0;0;0;528;"ELETRIC";"Eletric Fall Ltda.";11/2/2020 00:00:00;;8
+66808014.00;0;0;0;0;529;"ELET. SÃO PEDRO";"Eletricidade São Pedro Ltda.";11/2/2020 00:00:00;;8
+66808015.00;0;0;0;0;625;"SALTO NUVENS";"Salto das Nuvens Investimentos e Participações Ltda.";11/2/2020 00:00:00;;8
+66808016.00;0;0;0;0;531;"ÁGUAS DA PEDRA";"Energética Águas da Pedra S.A";11/2/2020 00:00:00;;8
+66808017.00;0;0;0;0;532;"SPE SAUDADES";"SPE Energética Saudades S.A";11/2/2020 00:00:00;;8
+66808018.00;0;0;0;0;533;"ENERGISAFRIBURG";"Energisa Nova Friburgo - Distribuidora de Energia S.A";11/2/2020 00:00:00;;8
+66808019.00;0;0;0;0;534;"ESMERALDA";"Esmeralda S.A";11/2/2020 00:00:00;;8
+66808020.00;0;0;0;0;535;"ESTAÇÃO INDAIAL";"Estação Indaial Energética S.A";11/2/2020 00:00:00;;8
+66808021.00;0;0;0;0;536;"FERREIRAGOMES";"Ferreira Gomes Energia S.A";11/2/2020 00:00:00;;8
+66808022.00;0;0;0;0;537;"FIBRA";"Fibra Geração Ltda.";11/2/2020 00:00:00;;8
+66808023.00;0;0;0;0;538;"FIRENZE";"Firenze Energética S.A";11/2/2020 00:00:00;;8
+66808024.00;0;0;0;0;539;"FLSS";"Força e Luz São Sebastião Ltda.";11/2/2020 00:00:00;;8
+66808025.00;0;0;0;0;540;"BRK";"BRK Ambiental - Cachoeiro de Itapemirim S.A.";11/2/2020 00:00:00;;8
+66808026.00;0;0;0;0;541;"GALHEIROS";"Galheiros Geração de Energia Elétrica S.A";11/2/2020 00:00:00;;8
+66808027.00;0;0;0;0;542;"GALÓPOLIS";"Galópolis Energia S.A";11/2/2020 00:00:00;;8
+66808028.00;0;0;0;0;543;"GÊNESIS";"Gênesis Energética S.A";11/2/2020 00:00:00;;8
+66808029.00;0;0;0;0;682;"AFLUENTE";"Afluente Geração de Energia Elétrica S.A";11/2/2020 00:00:00;;8
+66808030.00;0;0;0;0;683;"ALVORADA";"Alvorada Energia S.A";11/2/2020 00:00:00;;8
+66808031.00;0;0;0;0;684;"APIACÁS";"Apiacás Energia S.A";11/2/2020 00:00:00;;8
+66808032.00;0;0;0;0;685;"BAHIAPEQUENA";"Bahia Pequena Central Hidrelétrica S.A";11/2/2020 00:00:00;;8
+66808033.00;0;0;0;0;686;"CASSOL";"Cassol Centrais Elétricas Ltda.";11/2/2020 00:00:00;;8
+66808034.00;0;0;0;0;687;"RIO ENGANADO";"Hidrelétrica Rio Enganado Ltda.";11/2/2020 00:00:00;;8
+66808035.00;0;0;0;0;688;"GRAPON";"Centrais Hidrelétricas Grapon Ltda.";11/2/2020 00:00:00;;8
+66808036.00;0;0;0;0;1046;"CANDENGO";"Candengo Energias Renováveis Ltda.";11/2/2020 00:00:00;;8
+66808037.00;0;0;0;0;690;"CHOPIM";"Chopim Energia S.A";11/2/2020 00:00:00;;8
+66808038.00;0;0;0;0;1047;"LAJARI";"Lajari Energética S.A.";11/2/2020 00:00:00;;8
+66808039.00;0;0;0;0;692;"RIO DAS FLORES";"Companhia Energética Rio das Flores S.A";11/2/2020 00:00:00;;8
+66808040.00;0;0;0;0;694;"ITAUNENSE";"Companhia Industrial Itaunense";11/2/2020 00:00:00;;8
+66808041.00;0;0;0;0;695;"CONSTRUTORA LJA";"Construtora LJA Ltda.";11/2/2020 00:00:00;;8
+66808042.00;0;0;0;0;696;"DM";"DM Construtora de Obras Ltda.";11/2/2020 00:00:00;;8
+66808043.00;0;0;0;0;697;"RIOGRANDE";"Geração Hidroelétrica Rio Grande S.A.";11/2/2020 00:00:00;;8
+66808044.00;0;0;0;0;698;"ESPRA";"Energética Serra da Prata S.A-ESPRA";11/2/2020 00:00:00;;8
+66808045.00;0;0;0;0;699;"FERLIG";"Ferro Liga Ltda.-FERLIG";11/2/2020 00:00:00;;8
+66808046.00;0;0;0;0;700;"GERMAT";"Geradora de Energia do Estado de Mato Grosso S.A-GERMAT";11/2/2020 00:00:00;;8
+66808047.00;0;0;0;0;701;"GOIAS SUL";"Goiás Sul Geração de Energia S.A";11/2/2020 00:00:00;;8
+66808048.00;0;0;0;0;703;"HIDREL COMODORO";"Hidrelétrica Comodoro Ltda.";11/2/2020 00:00:00;;8
+66808049.00;0;0;0;0;705;"MALUCELLI";"J. Malucelli Energia S.A";11/2/2020 00:00:00;;8
+66808050.00;0;0;0;0;706;"MEGA ENERGIA";"Mega Energia Investimentos e Participações Ltda.";11/2/2020 00:00:00;;8
+66808051.00;0;0;0;0;707;"NOVA JUBA";"Nova Juba Energética e Participações S.A";11/2/2020 00:00:00;;8
+66808052.00;0;0;0;0;709;"PERFORMANCE";"PCH Performance Centrais Hidrelétricas Ltda.";11/2/2020 00:00:00;;8
+66808053.00;0;0;0;0;710;"QUATIARA";"Quatiara Energia S.A";11/2/2020 00:00:00;;8
+66808054.00;0;0;0;0;711;"RBF GERAÇÃO";"RBF Geração de Energia S.A";11/2/2020 00:00:00;;8
+66808055.00;0;0;0;0;712;"RIO BONITO";"Rio Bonito Energia Ltda.";11/2/2020 00:00:00;;8
+66808056.00;0;0;0;0;713;"RIO PCH";"Rio PCH I S.A";11/2/2020 00:00:00;;8
+66808057.00;0;0;0;0;714;"RIO POMBA";"Rio Pomba Energética S.A";11/2/2020 00:00:00;;8
+66808058.00;0;0;0;0;715;"RIO SIRINHAÉM";"Rio Sirinhaém Energia Ltda.";11/2/2020 00:00:00;;8
+66808059.00;0;0;0;0;716;"SANTA MARIA";"Santa Maria Companhia Papel e Celulose";11/2/2020 00:00:00;;8
+66808060.00;0;0;0;0;717;"SPE GUANHÃES";"SPE Guanhães Energia S.A";11/2/2020 00:00:00;;8
+66808061.00;0;0;0;0;718;"SPE PEIXE";"SPE Peixe Energia S.A";11/2/2020 00:00:00;;8
+66808062.00;0;0;0;0;719;"TAMANDUÁ";"Tamanduá Energia S.A";11/2/2020 00:00:00;;8
+66808063.00;0;0;0;0;721;"NHANDU";"Usina Elétrica do Nhandu S.A";11/2/2020 00:00:00;;8
+66808064.00;0;0;0;0;722;"PRATA";"Usina Elétrica do Prata Ltda.";11/2/2020 00:00:00;;8
+66808065.00;0;0;0;0;723;"ZONA DA MATA";"Zona da Mata Geração S.A";11/2/2020 00:00:00;;8
+66808066.00;0;0;0;0;724;"JAAR";"Jaar Quimica S.A";11/2/2020 00:00:00;;8
+66808067.00;0;0;0;0;725;"VOTORCIM II";"Votorantim Cimentos S.A";11/2/2020 00:00:00;;8
+66808068.00;0;0;0;0;726;"JAYADITYA";"Jayaditya Empreendimentos e Participações Ltda.";11/2/2020 00:00:00;;8
+66808069.00;0;0;0;0;727;"RIO MANHUAÇU";"Rio Manhuaçu Energética S.A";11/2/2020 00:00:00;;8
+66808070.00;0;0;0;0;728;"BANDEIRANTE";"Companhia Energética Bandeirante S.A.";11/2/2020 00:00:00;;8
+66808071.00;0;0;0;0;730;"CHIMAY";"Chimay Empreendimentos e Participações Ltda.";11/2/2020 00:00:00;;8
+66808072.00;0;0;0;0;219;"CODESP";"Companhia Docas do Estado de São Paulo-CODESP";11/2/2020 00:00:00;;8
+66808073.00;0;0;0;0;293;"CEMTEC-MS";"Centro Estadual de Monitoramento do Tempo, Clima e Rec. Hídricos - MS";11/2/2020 00:00:00;;8
+66808074.00;0;0;0;0;220;"DEMEI";"Departamento Municipal de Energia de Ijuí-DEMEI";11/2/2020 00:00:00;;8
+66808075.00;0;0;0;0;426;"CONSTRUFAM";"Construfam Engenharia e Empreendimentos Ltda.";11/2/2020 00:00:00;;8
+66808076.00;0;0;0;0;221;"ELETROCAR";"Centrais Elétricas de Carazinho S.A-ELETROCAR";11/2/2020 00:00:00;;8
+66808077.00;0;0;0;0;435;"SÃO MARCOS";"Hidrelétrica São Marcos";11/2/2020 00:00:00;;8
+66808078.00;0;0;0;0;222;"ENERCOOP";"Enercoop Ltda.";11/2/2020 00:00:00;;8
+66808079.00;0;0;0;0;296;"RIALMA IV";"Rialma Companhia Energética IV S/A";11/2/2020 00:00:00;;8
+66808080.00;0;0;0;0;223;"ENGECORPS";"Corpo de Engenheiros Consultores Ltda.";11/2/2020 00:00:00;;8
+66808081.00;0;0;0;0;308;"SÃO JOAQUIM";"São Joaquim Energia S.A";11/2/2020 00:00:00;;8
+66808082.00;0;0;0;0;438;"INEA-RJ";"Instituto Estadual do Ambiente";11/2/2020 00:00:00;;8
+66808083.00;0;0;0;0;452;"RIOVERDE SALTO";"Rio Verde Energia S.A - UHE Salto";11/2/2020 00:00:00;;8
+66808084.00;0;0;0;0;439;"INFOPER";"Infoper";11/2/2020 00:00:00;;8
+66808085.00;0;0;0;0;462;"IBRAM";"Instituto do Meio Ambiente e dos Recursos Hidricos do Distrito Federal";11/2/2020 00:00:00;;8
+66808086.00;0;0;0;0;353;"PROPOWER";"Propower Geradora de Energia Ltda.";11/2/2020 00:00:00;;8
+66808087.00;0;0;0;0;454;"SPE ARVOREDO";"SPE Arvoredo Energia S.A";11/2/2020 00:00:00;;8
+66808088.00;0;0;0;0;455;"SPE PAIOL";"SPE Paiol Energia S.A";11/2/2020 00:00:00;;8
+66808089.00;0;0;0;0;456;"ERSA";"ERSA Energias Renováveis s/a";11/2/2020 00:00:00;;8
+66808090.00;0;0;0;0;820;"COHIDRO-SE";"Companhia de Desenvolvimento de Recursos Hídricos e Irrigação de Sergipe";11/2/2020 00:00:00;;8
+66808091.00;0;0;0;0;384;"EIRELI";"PB Produção de Energia Elétrica - Eireli";11/2/2020 00:00:00;;8
+66808092.00;0;0;0;0;816;"PAREDÃO";"Paredão de Minas S.A";11/2/2020 00:00:00;;8
+66808093.00;0;0;0;0;817;"JAMBO";"Jambo Energia S.A.";11/2/2020 00:00:00;;8
+66808094.00;0;0;0;0;818;"STAHELENAYPE";"Santa Helena Energia S.A.";11/2/2020 00:00:00;;8
+66808095.00;0;0;0;0;388;"SEMACE-CE";"Superintendência Estadual do Meio Ambiente";11/2/2020 00:00:00;;8
+66808096.00;0;0;0;0;284;"AESA-PB";"Agência Executiva de Gestão das Águas do Estado da Paraíba";11/2/2020 00:00:00;;8
+66808097.00;0;0;0;0;195;"RGE";"RGE - Rio Grande Energia";11/2/2020 00:00:00;;8
+66808098.00;0;0;0;0;285;"COSTA BARROS";"Costa Barros Engenharia";11/2/2020 00:00:00;;8
+66808099.00;0;0;0;0;142;"NOVELIS";"Novelis do Brasil Ltda.";11/2/2020 00:00:00;;8
+66808100.00;0;0;0;0;151;"BELGO MINEIRA";"Companhia Siderúrgica Belgo Mineira";11/2/2020 00:00:00;;8
+66808101.00;0;0;0;0;143;"AES TIETÊ";"AES Tietê Energia S.A.";11/2/2020 00:00:00;;8
+66808102.00;0;0;0;0;224;"MAGGI";"Maggi Energia S.A.";11/2/2020 00:00:00;;8
+66808103.00;0;0;0;0;144;"CHAPECOZINHO";"Chapecozinho Energética S.A.";11/2/2020 00:00:00;;8
+66808104.00;0;0;0;0;267;"MAGNA";"Magna Engenharia Ltda.";11/2/2020 00:00:00;;8
+66808105.00;0;0;0;0;145;"AGROROSSATO";"Agropecuária Rossato Ltda.";11/2/2020 00:00:00;;8
+66808106.00;0;0;0;0;225;"ALTOÉ";"Hidroelétrica Altoé Ltda.";11/2/2020 00:00:00;;8
+66808107.00;0;0;0;0;146;"AMANARY";"Amanary Eletricidade Ltda.";11/2/2020 00:00:00;;8
+66808108.00;0;0;0;0;282;"SEIVAL";"SEIVAL Usina Termelétrica Ltda";11/2/2020 00:00:00;;8
+66808109.00;0;0;0;0;147;"APROVALE";"Associação de Produtores Rurais do Vale do Cedro";11/2/2020 00:00:00;;8
+66808110.00;0;0;0;0;226;"CEP";"Companhia Energética Paulista S.A.";11/2/2020 00:00:00;;8
+66808111.00;0;0;0;0;148;"AMPER";"Amper Energia Ltda.";11/2/2020 00:00:00;;8
+66808112.00;0;0;0;0;279;"CJ ENERGETICA";"CJ Energética S.A";11/2/2020 00:00:00;;8
+66808113.00;0;0;0;0;149;"ARAPUCEL";"Arapucel Ombreiras S.A.";11/2/2020 00:00:00;;8
+66808114.00;0;0;0;0;227;"CIA MINAS";"Companhia Minas da Passagem";11/2/2020 00:00:00;;8
+66808115.00;0;0;0;0;150;"BAESA";"Energética Barra Grande S.A-BAESA";11/2/2020 00:00:00;;8
+66808116.00;0;0;0;0;287;"JCTM";"JCTM Ltda.";11/2/2020 00:00:00;;8
+66808117.00;0;0;0;0;286;"FEPI";"Fundação de Ensino e Pesquisa de Itajubá";11/2/2020 00:00:00;;8
+66808118.00;0;0;0;0;229;"CPFL GERAÇÃO";"CPFL Geração de Energias S.A.";11/2/2020 00:00:00;;8
+66808119.00;0;0;0;0;232;"DMEDISTR";"DME Distribuição S/A";11/2/2020 00:00:00;;8
+66808120.00;0;0;0;0;233;"ELETRON";"Eletricidade de Rondônia Ltda-ELETRON";11/2/2020 00:00:00;;8
+66808121.00;0;0;0;0;234;"ELFSM";"Empresa Luz e Força Santa Maria S.A.";11/2/2020 00:00:00;;8
+66808122.00;0;0;0;0;235;"FOCKINK";"Hidrelétrica Fockink S.A";11/2/2020 00:00:00;;8
+66808123.00;0;0;0;0;236;"FORCEL";"Força e Luz Coronel Vivida Ltda.";11/2/2020 00:00:00;;8
+66808124.00;0;0;0;0;237;"HIDROBASA";"Hidrometria da Bahia Ltda.";11/2/2020 00:00:00;;8
+66808125.00;0;0;0;0;238;"HIDROTÉRMICA";"Hidrotérmica S.A.";11/2/2020 00:00:00;;8
+66808126.00;0;0;0;0;239;"HORIZONTES";"Horizontes Energia S.A.";11/2/2020 00:00:00;;8
+66808127.00;0;0;0;0;240;"RIO SÃO MARCOS";"Hidrelétrica Rio São Marcos Ltda.";11/2/2020 00:00:00;;8
+66808128.00;0;0;0;0;247;"SULGIPE";"Companhia Sul Sergipana de Eletricidade";11/2/2020 00:00:00;;8
+66808129.00;0;0;0;0;261;"ELTAN";"Eltan Energética";11/2/2020 00:00:00;;8
+66808130.00;0;0;0;0;141;"CAIUÁ";"Caiuá Serviços de Eletricidade S.A.";11/2/2020 00:00:00;;8
+66808131.00;0;0;0;0;152;"EMATEX";"Ematex Industrial e Comercial Têxtil Ltda.";11/2/2020 00:00:00;;8
+66808132.00;0;0;0;0;178;"COSTA RICA";"Costa Rica Energética Ltda.";11/2/2020 00:00:00;;8
+66808133.00;0;0;0;0;153;"BRAGAGNOLO";"Avelino Bragagnolo S.A Industria e Comércio";11/2/2020 00:00:00;;8
+66808134.00;0;0;0;0;262;"SENGES";"Senges Papel e Celulose Ltda.";11/2/2020 00:00:00;;8
+66808135.00;0;0;0;0;154;"BRASCAN";"Brascan Energética";11/2/2020 00:00:00;;8
+66808136.00;0;0;0;0;179;"CRELUZ G";"Cooperativa de Geração de Energia e Desenvolvimento";11/2/2020 00:00:00;;8
+66808137.00;0;0;0;0;155;"BONET";"Bonet Madeiras e Papéis Ltda.";11/2/2020 00:00:00;;8
+66808138.00;0;0;0;0;173;"ELETRAM";"Eletricidade da Amazônia S.A-ELETRAM";11/2/2020 00:00:00;;8
+66808139.00;0;0;0;0;156;"BT GERADORA";"Bt Geradora de Energia Elétrica S.A";11/2/2020 00:00:00;;8
+66808140.00;0;0;0;0;248;"TECEL.SÃO PEDRO";"Tecelagem São Pedro";11/2/2020 00:00:00;;8
+66808141.00;0;0;0;0;157;"CAÇADOR";"Caçador Energética S.A";11/2/2020 00:00:00;;8
+66808142.00;0;0;0;0;180;"ELOI BRUNETTA";"Eloi Bruneta e Cia. Ltda.";11/2/2020 00:00:00;;8
+66808143.00;0;0;0;0;158;"ELETROGOES S/A";"Eletrogoes S.A";11/2/2020 00:00:00;;8
+66808144.00;0;0;0;0;268;"PRCPI";"Produtividade Rural Comércio de Peças de Irrigação Ltda.";11/2/2020 00:00:00;;8
+66808145.00;0;0;0;0;159;"CASTAMAN";"Castaman Centrais Elétricas Ltda.";11/2/2020 00:00:00;;8
+66808146.00;0;0;0;0;181;"ESCELSA";"Espírito Santo Centrais Elétricas S.A.";11/2/2020 00:00:00;;8
+66808147.00;0;0;0;0;160;"CDSA";"Centrais Elétricas  Cachoeira Dourada-CDSA";11/2/2020 00:00:00;;8
+66808148.00;0;0;0;0;249;"UFRP";"Universidade Federal Rural de Pernambuco";11/2/2020 00:00:00;;8
+66808149.00;0;0;0;0;161;"TECIDOS CEDRO";"Companhia Fiação Tecidos Cedro Cachoeira";11/2/2020 00:00:00;;8
+66808150.00;0;0;0;0;182;"FAIXA AZUL";"Faixa Azul Industria de Móveis para Escritório Ltda.";11/2/2020 00:00:00;;8
+66808151.00;0;0;0;0;162;"CEESAM";"CEESAM Geradora S.A";11/2/2020 00:00:00;;8
+66808152.00;0;0;0;0;263;"CRISTO REI";"Industrias Reunidas Cristo Rei Ltda.";11/2/2020 00:00:00;;8
+66808153.00;0;0;0;0;163;"CEJARAGUÁ";"Companhia Eletroquímica Jaraguá";11/2/2020 00:00:00;;8
+66808154.00;0;0;0;0;183;"FAXINAL";"Madeireira Faxinal Ltda.";11/2/2020 00:00:00;;8
+66808155.00;0;0;0;0;270;"INCAPER";"Instituto Capixaba de Pesquisa";11/2/2020 00:00:00;;8
+66808156.00;0;0;0;0;184;"GLOBAL";"Global Energia Elétrica S.A.";11/2/2020 00:00:00;;8
+66808157.00;0;0;0;0;251;"SEMESA";"Semesa S.A.";11/2/2020 00:00:00;;8
+66808158.00;0;0;0;0;185;"HEIDRICH";"Heidrich Geração Elétrica Ltda";11/2/2020 00:00:00;;8
+66808159.00;0;0;0;0;264;"CERSAD";"Cooperativa de Geração de Energia Elétrica Salto Donner - CERSAD";11/2/2020 00:00:00;;8
+66808160.00;0;0;0;0;186;"IBEMA";"Companhia Brasileira de Papel-IBEMA";11/2/2020 00:00:00;;8
+66808161.00;0;0;0;0;252;"MARINGÁ";"Maringá S.A. Cimento e Ferro-Liga";11/2/2020 00:00:00;;8
+66808162.00;0;0;0;0;187;"INSAM";"Indústrias de Madeiras Santa Maria Ltda.-INSAM";11/2/2020 00:00:00;;8
+66808163.00;0;0;0;0;271;"TATUÍ";"Companhia Energética Tatuí Ltda";11/2/2020 00:00:00;;8
+66808164.00;0;0;0;0;253;"IMBEL";"Indústria de Material Bélico do Brasil-IMBEL";11/2/2020 00:00:00;;8
+66808165.00;0;0;0;0;189;"ITISA";"Itiquira Energética S.A-ITISA";11/2/2020 00:00:00;;8
+66808166.00;0;0;0;0;272;"ROVENA";"Rovena - Veículos e Máquinas Ltda.";11/2/2020 00:00:00;;8
+66808167.00;0;0;0;0;254;"CLFM";"Companhia Luz e Força Mococa-CLFM";11/2/2020 00:00:00;;8
+66808168.00;0;0;0;0;273;"POUSO ALTO";"Pouso Alto Energia S.A.";11/2/2020 00:00:00;;8
+66808169.00;0;0;0;0;191;"LARROSA";"Larrosa Construmil";11/2/2020 00:00:00;;8
+66808170.00;0;0;0;0;255;"RIO BRANCO";"Cimento Rio Branco S.A.";11/2/2020 00:00:00;;8
+66808171.00;0;0;0;0;192;"LAGO AZUL";"Lago Azul Ltda.-LASA";11/2/2020 00:00:00;;8
+66808172.00;0;0;0;0;276;"INTERNATIONAL";"International Paper do Brasil";11/2/2020 00:00:00;;8
+66808173.00;0;0;0;0;193;"MAFRAS";"Mafras Energia Ltda.";11/2/2020 00:00:00;;8
+66808174.00;0;0;0;0;256;"SALTO DO LOBO";"Companhia Energética Salto do Lobo Ltda.";11/2/2020 00:00:00;;8
+66808175.00;0;0;0;0;194;"AMAZONAS";"Amazonas Geração e Transmissão de Energia S.A.";11/2/2020 00:00:00;;8
+66808176.00;0;0;0;0;257;"RIO PEDRINHO";"Energética Rio Pedrinho S.A.";11/2/2020 00:00:00;;8
+66808177.00;0;0;0;0;275;"SEIVA";"SEIVA Engenharia e Projetos Ambientais Ltda.";11/2/2020 00:00:00;;8
+66808178.00;0;0;0;0;198;"TRAPICHE";"Usina Trapiche S.A.";11/2/2020 00:00:00;;8
+66808179.00;0;0;0;0;274;"RIO DO SANGUE";"Rio do Sangue Energia S.A.";11/2/2020 00:00:00;;8
+66808180.00;0;0;0;0;442;"FOZ DO CHAPECÓ";"Foz do Chapecó Energia S.A";11/2/2020 00:00:00;;8
+66808181.00;0;0;0;0;465;"SALTODASFLORES";"Central Hidrelétrica Salto das Flores S.A";11/2/2020 00:00:00;;8
+66808182.00;0;0;0;0;356;"NICKEL";"Companhia Nickel do Brasil";11/2/2020 00:00:00;;8
+66808183.00;0;0;0;0;359;"CAM";"Consultoria Agropecuária Magrin Ltda.";11/2/2020 00:00:00;;8
+66808184.00;0;0;0;0;813;"ALUPAR";"Alupar Investimento S.A.";11/2/2020 00:00:00;;8
+66808185.00;0;0;0;0;814;"JARDIM";"Hidrelétrica Jardim Ltda";11/2/2020 00:00:00;;8
+66808186.00;0;0;0;0;821;"CETREL";"EMPRESA DE PROTEÇÃO AMBIENTAL S/A";11/2/2020 00:00:00;;8
+66808187.00;0;0;0;0;394;"RETIRO CHALÉ";"Condomínio  Retiro do chalé";11/2/2020 00:00:00;;8
+66808188.00;0;0;0;0;169;"FAZ.GIRASSOL";"Fazenda Girassol";11/2/2020 00:00:00;;8
+66808189.00;0;0;0;0;1086;"MAUÉS";"Maués S.A.";11/2/2020 00:00:00;;8
+66808190.00;0;0;0;0;1087;"MANUEL ALVES";"Central Geradora Hidrelétrica Manuel Alves Ltda.";11/2/2020 00:00:00;;8
+66808191.00;0;0;0;0;1088;"AREADO";"Areado Energia S.A.";11/2/2020 00:00:00;;8
+66808192.00;0;0;0;0;1089;"ARMANDO RIBEIRO";"Central Geradora Hidrelétrica Armando Ribeiro S.A.";11/2/2020 00:00:00;;8
+66808193.00;0;0;0;0;1090;"MANTOVILIS";"PCH Mantovilis S.A.";11/2/2020 00:00:00;;8
+66808194.00;0;0;0;0;1091;"IBICARÉ";"Ibicaré Hidrelétrica Ltda.";11/2/2020 00:00:00;;8
+66808195.00;0;0;0;0;1092;"FORQUILHA";"Hidrelétrica Forquilha Ltda.";11/2/2020 00:00:00;;8
+66808196.00;0;0;0;0;1093;"SUL ENERGIA";"Brasil Sul Energia S.A.";11/2/2020 00:00:00;;8
+66808197.00;0;0;0;0;1094;"LOMBO";"Lombo do Cavalo S.A. Geração Elétrica.";11/2/2020 00:00:00;;8
+66808198.00;0;0;0;0;1095;"BARTOLOMEU";"São Bartolomeu Geradora de Energia Renovável Ltda.";11/2/2020 00:00:00;;8
+66808199.00;0;0;0;0;1096;"JUÍNA";"PCH Juína S.A.";11/2/2020 00:00:00;;8
+66808200.00;0;0;0;0;1097;"CASTANHÃO";"Central Geradora Hidrelétrica Castanhão S.A.";11/2/2020 00:00:00;;8
+66808201.00;0;0;0;0;1098;"INVERNADINHA";"Energética Invernadinha Ltda.";11/2/2020 00:00:00;;8
+66808202.00;0;0;0;0;1099;"ROSA ENERGIA";"Santa Rosa Energia e Participações S.A.";11/2/2020 00:00:00;;8
+66808203.00;0;0;0;0;1100;"JAURU S.A.";"PCH Jauru S.A.";11/2/2020 00:00:00;;8
+66808204.00;0;0;0;0;1101;"ITIQUIRA III";"PCH Itiquira III Energia SPE S.A.";11/2/2020 00:00:00;;8
+66808205.00;0;0;0;0;1102;"COBRE";"Rio do Cobre Energia Ltda.";11/2/2020 00:00:00;;8
+66808206.00;0;0;0;0;1103;"RAFITEC";"Rafitec S.A. Indúdtria e Comércio de Sacarias";11/2/2020 00:00:00;;8
+66808207.00;0;0;0;0;1104;"MANSO";"Ribeirão Manso Energética Ltda.";11/2/2020 00:00:00;;8
+66808208.00;0;0;0;0;1105;"PIARUCUM";"Piarucum Energia Ltda.";11/2/2020 00:00:00;;8
+66808209.00;0;0;0;0;1108;"ENGIE BRASIL";"Engie Brasil Energia S.A.";11/2/2020 00:00:00;;8
+66808210.00;0;0;0;0;1110;"CENTRALGERADORA";"Central Geradora Hidrelétrica Forquilha Ltda.";11/2/2020 00:00:00;;8
+66808211.00;0;0;0;0;199;"Pará de Minas";"Prefeitura Pará de Minas";11/2/2020 00:00:00;;8
+66808212.00;0;0;0;0;460;"MAUÊ";"Mauê S.A - Geradora e Fornecedora de Insumos";11/2/2020 00:00:00;;8
+66808213.00;0;0;0;0;346;"CONS.CORUMBÁIII";"Consórcio Empreendedor Corumbá lll";11/2/2020 00:00:00;;8
+66808214.00;0;0;0;0;913;"AGERH-ES";"Agência Estadual de Recursos Hídricos";11/2/2020 00:00:00;;8
+66808215.00;0;0;0;0;1001;"ÁGUA CLARA";"Água Clara Energética S.A.";11/2/2020 00:00:00;;8
+66808216.00;0;0;0;0;451;"CEMADEN";"Centro Nacional de Monitoramento e Alertas de Desastres Naturais.";11/2/2020 00:00:00;;8
+66808217.00;0;0;0;0;387;"DCES";"Defesa Civil do Estado do Espírito Santo-ES";11/2/2020 00:00:00;;8
+66808218.00;0;0;0;0;914;"SECTEC-GO";"Secretaria de Ciência e Ecnologia do estado de Goiás";11/2/2020 00:00:00;;8
+66808219.00;0;0;0;0;1054;"PONTE SERRADA";"Ponte Serrada Geração de Energia S.A.";11/2/2020 00:00:00;;8
+66808220.00;0;0;0;0;461;"RIO CLARO";"Foz do Rio Claro Energia S.A.";11/2/2020 00:00:00;;8
+66808221.00;0;0;0;0;349;"EPA";"Eletricidade Paraense Ltda.";11/2/2020 00:00:00;;8
+66808222.00;0;0;0;0;440;"CERV-PET";"Cervejaria Petrópolis do Centro Oeste Ltda.";11/2/2020 00:00:00;;8
+66808223.00;0;0;0;0;380;"SEMA-AC";"Secretaria de Meio Ambiente do Estado do Acre";11/2/2020 00:00:00;;8
+66808224.00;0;0;0;0;1125;"IJUÍ";"Ijuí Centenária Geração SPE Ltda.";11/2/2020 00:00:00;;8
+66808225.00;0;0;0;0;354;"SANTO ANTÔNIO";"Santo Antônio Energia S.A";11/2/2020 00:00:00;;8
+66808226.00;0;0;0;0;355;"PCE";"PCE Projetos e Consultorias e Engenharia Ltda";11/2/2020 00:00:00;;8
+66808227.00;0;0;0;0;1050;"VORTEX";"Vortex Energia Ltda.";11/2/2020 00:00:00;;8
+66808228.00;0;0;0;0;1051;"CASTRO ENERGIA";"Castro Energia Ltda.";11/2/2020 00:00:00;;8
+66808229.00;0;0;0;0;1052;"BOA VISTA 2";"SPE Boa Vista 2 Energia S.A.";11/2/2020 00:00:00;;8
+66808230.00;0;0;0;0;1053;"TIBAGI";"Tibagi Energia SPE S.A.";11/2/2020 00:00:00;;8
+66808231.00;0;0;0;0;334;"SERRA DO FACÃO";"Serra do Facão Energia S.A.";11/2/2020 00:00:00;;8
+66808232.00;0;0;0;0;1129;"MAZP";"Energias Renováveis Mazp Ltda";11/2/2020 00:00:00;;8
+66808233.00;0;0;0;0;390;"SEMADES-TO";"Secretaria do Meio Ambiente e Desenvolvimento Sustentável - TO";11/2/2020 00:00:00;;8
+66808234.00;0;0;0;0;379;"SANEATINS";"Companhia de Saneamento do Tocantins";11/2/2020 00:00:00;;8
+66808235.00;0;0;0;0;385;"VERACRUZ";"Soluções Geofísicas e Geológicas";11/2/2020 00:00:00;;8
+66808236.00;0;0;0;0;819;"CAERN";"Companhia de Águas e Esgotos do Rio Grande do Norte";11/2/2020 00:00:00;;8
+66808237.00;0;0;0;0;1153;"PRADO";"Antônio Prado Energia S.A.";11/2/2020 00:00:00;;8
+66808238.00;0;0;0;0;1029;"GESM";"Geração de Energia Sul de Minas S.A.";11/2/2020 00:00:00;;8
+66808239.00;0;0;0;0;378;"SEMARH-RN";"Secretaria do Meio Ambiente e Recursos Hídricos - RN";11/2/2020 00:00:00;;8
+66808240.00;0;0;0;0;1127;"BURITIZAL";"Hidroelétrica Buritizal Ltda.";11/2/2020 00:00:00;;8
+66808241.00;0;0;0;0;393;"APROVA";"Aprova Agricultura Sustentável";11/2/2020 00:00:00;;8
+66808242.00;0;0;0;0;1160;"ARA";"ARA  Geração de Energia Santa Luzia Ltda.";11/2/2020 00:00:00;;8
+66808243.00;0;0;0;0;1161;"TRANSLEAD";"Translead Empreendimentos e Incorporações Ltda.";11/2/2020 00:00:00;;8
+66808244.00;0;0;0;0;1067;"SALTO GRANDE";"CEMIG Geração Salto Grande S.A.";11/2/2020 00:00:00;;8
+66808245.00;0;0;0;0;1068;"TRÊS MARIAS";"CEMIG Geração Três Marias S.A.";11/2/2020 00:00:00;;8
+66808246.00;0;0;0;0;1069;"CEMIG ITUTINGA";"CEMIG Geração Itutinga S.A.";11/2/2020 00:00:00;;8
+66808247.00;0;0;0;0;1070;"CEMIG CAMARGOS";"CEMIG Geração Camargos S.A.";11/2/2020 00:00:00;;8
+66808248.00;0;0;0;0;1071;"CEMIG OESTE";"CEMIG Geração Oeste S.A.";11/2/2020 00:00:00;;8
+66808249.00;0;0;0;0;230;"APAC-PE";"Agência Pernambucana de Águas e Clima";11/2/2020 00:00:00;;8
+66808250.00;0;0;0;0;305;"HÁGUAS";"Háguas Hidrometria e Telemetria";11/2/2020 00:00:00;;8
+66808251.00;0;0;0;0;1034;"VERDE 08";"Verde 08 Energia S.A.";11/2/2020 00:00:00;;8
+66808252.00;0;0;0;0;436;"RINCÃO ALBINOS";"Rincão dos Albinos Energética S/A";11/2/2020 00:00:00;;8
+66808253.00;0;0;0;0;458;"CAIBI";"Central Elétrica Caibi Ltda.";11/2/2020 00:00:00;;8
+66808254.00;0;0;0;0;1126;"CAMBARÁ";"Cambará S.A. Produtos Florestais";11/2/2020 00:00:00;;8
+66808255.00;0;0;0;0;1107;"POWERPROJETOS I";"Enel Green Power Projetos I S.A.";11/2/2020 00:00:00;;8
+66808256.00;0;0;0;0;441;"ÁGUAS IMPERADOR";"Águas do Imperador";11/2/2020 00:00:00;;8
+66808257.00;0;0;0;0;325;"JURUENA";"Juruena Energia S.A.";11/2/2020 00:00:00;;8
+66808258.00;0;0;0;0;336;"IGUAÇU MINAS";"Iguaçu Minas Energética Ltda.";11/2/2020 00:00:00;;8
+66808259.00;0;0;0;0;348;"LUZBOA";"Luzboa S.A";11/2/2020 00:00:00;;8
+66808260.00;0;0;0;0;231;"FURG";"Universidade Federal do Rio Grande";11/2/2020 00:00:00;;8
+66808261.00;0;0;0;0;1124;"KINROSS";"Kinross Brasil Mineração S.A.";11/2/2020 00:00:00;;8
+66808262.00;0;0;0;0;1159;"SANTANA";"Santana Energética Ltda";11/2/2020 00:00:00;;8
+66808263.00;0;0;0;0;1111;"RIO TURVO";"Rio Turvo Energética SPE S/A";11/2/2020 00:00:00;;8
+66808264.00;0;0;0;0;1112;"JAGUARA";"Companhia Energética Jaguara";11/2/2020 00:00:00;;8
+66808265.00;0;0;0;0;1113;"MIRANDA";"Companhia Energética Miranda";11/2/2020 00:00:00;;8
+66808266.00;0;0;0;0;1115;"SIMÃO";"UHE São Simão Energia S.A.";11/2/2020 00:00:00;;8
+66808267.00;0;0;0;0;1116;"ANEL";"Anel Imobiliária Ltda.";11/2/2020 00:00:00;;8
+66808268.00;0;0;0;0;1117;"CERCAR";"Cercar PCH Moinho S.A.";11/2/2020 00:00:00;;8
+66808269.00;0;0;0;0;1118;"FORTALEZA";"Fortaleza Energia Ltda.";11/2/2020 00:00:00;;8
+66808270.00;0;0;0;0;1119;"JASP";"Hidrelétrica Jasp Ltda.";11/2/2020 00:00:00;;8
+66808271.00;0;0;0;0;1120;"LIGEIRO";"Rio Ligeiro Energia Ltda.";11/2/2020 00:00:00;;8
+66808272.00;0;0;0;0;311;"GALVÃO ENG.";"Galvão Engenharia S.A.";11/2/2020 00:00:00;;8
+66808273.00;0;0;0;0;302;"BCE";"Brasil Central Energia ltda.";11/2/2020 00:00:00;;8
+66808274.00;0;0;0;0;464;"MIRIM";"Rio Sapucaí Mirim Energia Ltda.";11/2/2020 00:00:00;;8
+66808275.00;0;0;0;0;587;"MARCOL";"Madeireira Rio Colorado Ltda.-MARCOL";11/2/2020 00:00:00;;8
+66808276.00;0;0;0;0;588;"TABOCA";"Mineração Taboca S.A";11/2/2020 00:00:00;;8
+66808277.00;0;0;0;0;589;"MIZU";"Mizu S.A";11/2/2020 00:00:00;;8
+66808278.00;0;0;0;0;590;"MOINHO";"Moinho S.A";11/2/2020 00:00:00;;8
+66808279.00;0;0;0;0;591;"MUCURI";"Mucuri Energética S.A";11/2/2020 00:00:00;;8
+66808280.00;0;0;0;0;592;"MULTIFASE";"Multifase Centrais de Energia do Brasil Ltda.";11/2/2020 00:00:00;;8
+66808281.00;0;0;0;0;593;"MURTA";"Murta Energética S.A";11/2/2020 00:00:00;;8
+66808282.00;0;0;0;0;594;"NORTE ENERGIA";"Norte Energia S.A";11/2/2020 00:00:00;;8
+66808283.00;0;0;0;0;595;"OLVEPAR";"Olvepar S.A Indústria e Comércio";11/2/2020 00:00:00;;8
+66808284.00;0;0;0;0;596;"OPM";"OPM Empreendimentos S.A";11/2/2020 00:00:00;;8
+66808285.00;0;0;0;0;597;"OURO";"Ouro Energética S.A";11/2/2020 00:00:00;;8
+66808286.00;0;0;0;0;598;"PARACATU";"Paracatu Energia S.A";11/2/2020 00:00:00;;8
+66808287.00;0;0;0;0;599;"PARECIS";"Parecis Energia S.A";11/2/2020 00:00:00;;8
+66808288.00;0;0;0;0;600;"PASSO FERRAZ";"Passo Ferraz Energia S.A";11/2/2020 00:00:00;;8
+66808289.00;0;0;0;0;601;"PASSOS MAIA";"Passos Maia Energética S.A";11/2/2020 00:00:00;;8
+66808290.00;0;0;0;0;602;"PEDRA FURADA";"Pedra Furada Energia S.A";11/2/2020 00:00:00;;8
+66808291.00;0;0;0;0;603;"RIO DO BRAÇO";"Pequena Central Hidrelétrica Rio do Braço S.A";11/2/2020 00:00:00;;8
+66808292.00;0;0;0;0;604;"PERDIZES";"Perdizes  Energética Ltda.";11/2/2020 00:00:00;;8
+66808293.00;0;0;0;0;605;"PETROBRÁS";"Petróleo Brasileiro S.A-PETROBRÁS";11/2/2020 00:00:00;;8
+66808294.00;0;0;0;0;606;"PIEDADE";"Piedade Usina Geradora de Energia S.A";11/2/2020 00:00:00;;8
+66808295.00;0;0;0;0;607;"PIRACICABA";"Piracicaba Geradora de Energia Ltda.";11/2/2020 00:00:00;;8
+66808296.00;0;0;0;0;608;"PIRAPETINGA";"Pirapetinga Hidrelétrica S.A";11/2/2020 00:00:00;;8
+66808297.00;0;0;0;0;609;"PLANALTO";"Planalto Energética S.A.";11/2/2020 00:00:00;;8
+66808298.00;0;0;0;0;610;"CANTU";"Cantu Energética S.A";11/2/2020 00:00:00;;8
+66808299.00;0;0;0;0;611;"PORTO FRANCO";"Porto Franco Energética S.A";11/2/2020 00:00:00;;8
+66808300.00;0;0;0;0;612;"DEUS ENERGÉTICA";"Presente de Deus Energética S.A";11/2/2020 00:00:00;;8
+66808301.00;0;0;0;0;613;"QUEIXADA";"Queixada Energética S.A";11/2/2020 00:00:00;;8
+66808302.00;0;0;0;0;614;"RETIRO BAIXO";"Retiro Baixo Energética S.A";11/2/2020 00:00:00;;8
+66808303.00;0;0;0;0;615;"RIACHO PRETO";"Riacho Preto Energética S.A";11/2/2020 00:00:00;;8
+66808304.00;0;0;0;0;616;"RIO CANOAS";"Rio Canoas Energia S.A";11/2/2020 00:00:00;;8
+66808305.00;0;0;0;0;617;"RIO CORRENTE";"Rio Corrente S.A";11/2/2020 00:00:00;;8
+66808306.00;0;0;0;0;546;"RIO FORTUNA";"Geradora de Energia Rio Fortuna S.A";11/2/2020 00:00:00;;8
+66808307.00;0;0;0;0;621;"RONDINHA ENERG.";"Rondinha Energética S.A";11/2/2020 00:00:00;;8
+66808308.00;0;0;0;0;622;"RONDINHA GERAD.";"Rondinha Geradora de Energia Ltda.";11/2/2020 00:00:00;;8
+66808309.00;0;0;0;0;623;"RONDON";"Rondon Energia S.A";11/2/2020 00:00:00;;8
+66808310.00;0;0;0;0;624;"SÁ CARVALHO";"Sá Carvalho S.A";11/2/2020 00:00:00;;8
+66808311.00;0;0;0;0;626;"SANTA ANA";"Santa Ana Energética S/A";11/2/2020 00:00:00;;8
+66808312.00;0;0;0;0;627;"SANTA CLARA";"Santa Clara Indústria de Cartões Ltda.";11/2/2020 00:00:00;;8
+66808313.00;0;0;0;0;628;"SANTA GABRIELA";"Santa Gabriela Energética S.A";11/2/2020 00:00:00;;8
+66808314.00;0;0;0;0;631;"SANTAROSA-1";"Santa Rosa Energética S.A";11/2/2020 00:00:00;;8
+66808315.00;0;0;0;0;634;"SÃO TADEU";"São Tadeu Energética S.A";11/2/2020 00:00:00;;8
+66808316.00;0;0;0;0;544;"PCHSANTAROSA";"PCH Santa Rosa S.A.";11/2/2020 00:00:00;;8
+66808317.00;0;0;0;0;619;"RIO GLÓRIA";"Rio Glória Energética S.A";11/2/2020 00:00:00;;8
+66808318.00;0;0;0;0;629;"STAHELENALTDA";"Santa Helena Energia Ltda.";11/2/2020 00:00:00;;8
+66808319.00;0;0;0;0;632;"SANTA ROSA";"Santa Rosa S.A";11/2/2020 00:00:00;;8
+66808320.00;0;0;0;0;635;"SAPEEL";"Sociedade Amapaense de Produção de Energia Elétrica Ltda.-SAPEEL";11/2/2020 00:00:00;;8
+66808321.00;0;0;0;0;640;"SOCIBE";"Socibe Energia S.A";11/2/2020 00:00:00;;8
+66808322.00;0;0;0;0;641;"SOPAVE";"Sopave Norte S.A Mercantil Rural";11/2/2020 00:00:00;;8
+66808323.00;0;0;0;0;642;"SPE AIURUOCA";"SPE Aiuruoca Energia S.A";11/2/2020 00:00:00;;8
+66808324.00;0;0;0;0;643;"SPE ALTO IRANI";"SPE Alto Irani Energia S.A";11/2/2020 00:00:00;;8
+66808325.00;0;0;0;0;644;"SPE BAHIA";"SPE Bahia PCH I S.A";11/2/2020 00:00:00;;8
+66808326.00;0;0;0;0;645;"SPE PACIÊNCIA";"SPE Barra da Paciência Energia S.A";11/2/2020 00:00:00;;8
+66808327.00;0;0;0;0;646;"SPE GRANDE I";"SPE Cachoeira Grande Energia S.A";11/2/2020 00:00:00;;8
+66808328.00;0;0;0;0;647;"SPE GRANDE II";"SPE Cachoeira Grande II Energia S.A";11/2/2020 00:00:00;;8
+66808329.00;0;0;0;0;648;"SPE COCAIS";"SPE Cocais Grande Energia S.A";11/2/2020 00:00:00;;8
+66808330.00;0;0;0;0;649;"SPE CORR.GRANDE";"SPE Corrente Grande Energia S.A";11/2/2020 00:00:00;;8
+66808331.00;0;0;0;0;650;"SPE ÁGUIA";"SPE Ninho da Águia Energia S.A";11/2/2020 00:00:00;;8
+66808332.00;0;0;0;0;651;"SPE PLANO ALTO";"SPE Plano Alto Energia S.A";11/2/2020 00:00:00;;8
+66808333.00;0;0;0;0;652;"SPE SALTO GOES";"SPE Salto Góes Energia S.A";11/2/2020 00:00:00;;8
+66808334.00;0;0;0;0;653;"SPE SANTA CRUZ";"SPE Santa Cruz Energia S.A";11/2/2020 00:00:00;;8
+66808335.00;0;0;0;0;654;"SPE SANTA LUZIA";"SPE Santa Luzia Energética S.A";11/2/2020 00:00:00;;8
+66808336.00;0;0;0;0;655;"SPE GONÇALO";"SPE São Gonçalo Energia S.A";11/2/2020 00:00:00;;8
+66808337.00;0;0;0;0;656;"SPE VARGINHA";"SPE Varginha Energia S.A";11/2/2020 00:00:00;;8
+66808338.00;0;0;0;0;657;"SPE V. ALEGRE";"SPE Várzea Alegre Energia S.A";11/2/2020 00:00:00;;8
+66808339.00;0;0;0;0;658;"TAMBAÚ";"Tambaú Energética S.A";11/2/2020 00:00:00;;8
+66808340.00;0;0;0;0;659;"TECNOVOLT";"Tecnovolt Centrais Elétricas S.A";11/2/2020 00:00:00;;8
+66808341.00;0;0;0;0;660;"TELEGRÁFICA";"Telegráfica Energia S.A";11/2/2020 00:00:00;;8
+66808342.00;0;0;0;0;661;"TIGRE";"Tigre Produção de Energia Elétrica Ltda.";11/2/2020 00:00:00;;8
+66808343.00;0;0;0;0;662;"TUDELÂNDIA";"Tudelândia Central Elétrica S.A";11/2/2020 00:00:00;;8
+66808344.00;0;0;0;0;663;"TUPAN";"Tupan Energia Elétrica Ltda.";11/2/2020 00:00:00;;8
+66808345.00;0;0;0;0;664;"SPE TURVO";"SPE Turvo Energia S.A";11/2/2020 00:00:00;;8
+66808346.00;0;0;0;0;665;"UNAI BAIXO";"Unaí Baixo Energética S.A";11/2/2020 00:00:00;;8
+66808347.00;0;0;0;0;666;"RIOVERMELHO";"Usina Rio Vermelho de Energia Ltda.";11/2/2020 00:00:00;;8
+66808348.00;0;0;0;0;667;"SERRA GRANDE";"Usina Serra Grande S.A";11/2/2020 00:00:00;;8
+66808349.00;0;0;0;0;668;"USINACACHOEIRA";"Usina Hidrelétrica Cachoeira Ltda.";11/2/2020 00:00:00;;8
+66808350.00;0;0;0;0;669;"USINACUBATÃO";"Usina Hidrelétrica Cubatão S.A";11/2/2020 00:00:00;;8
+66808351.00;0;0;0;0;670;"ITAIQUARA";"Usina Itaiquara de Açúcar  e Álcool S.A";11/2/2020 00:00:00;;8
+66808352.00;0;0;0;0;671;"JACIARA";"Usina Jaciara S.A";11/2/2020 00:00:00;;8
+66808353.00;0;0;0;0;672;"LAVRINHAS";"Usina Paulista Lavrinhas de Energia S.A";11/2/2020 00:00:00;;8
+66808354.00;0;0;0;0;673;"QUELUZ";"Usina Paulista Queluz de Energia S.A";11/2/2020 00:00:00;;8
+66808355.00;0;0;0;0;674;"USINAUNIÃO";"Usina União e Indústria S.A";11/2/2020 00:00:00;;8
+66808356.00;0;0;0;0;675;"VOTORCIM I";"Votorantim Cimentos  N/NE S.A";11/2/2020 00:00:00;;8
+66808357.00;0;0;0;0;676;"XAVANTINA";"Xavantina Energética S.A";11/2/2020 00:00:00;;8
+66808358.00;0;0;0;0;677;"ZIHUATANEJO";"Zihuatanejo do Brasil Açúcar e Álcool Ltda.";11/2/2020 00:00:00;;8
+66808359.00;0;0;0;0;678;"ABC ENERGIA";"ABC Energia Ltda.";11/2/2020 00:00:00;;8
+66808360.00;0;0;0;0;679;"CEI MINAS";"CEI Minas PCH Energia Ltda.";11/2/2020 00:00:00;;8
+66808361.00;0;0;0;0;1128;"CHALÉ";"Central Geradora Hidroelétrica Chalé S.A";11/2/2020 00:00:00;;8
+66808362.00;0;0;0;0;406;"ONIX";"Ônix Geração de Energia S.A";11/2/2020 00:00:00;;8
+66808363.00;0;0;0;0;323;"SERRA NEGRA";"Serra Negra Energética S.A.";11/2/2020 00:00:00;;8
+66808364.00;0;0;0;0;396;"CAPARAÓ";"Caparaó Energia S.A";11/2/2020 00:00:00;;8
+66808365.00;0;0;0;0;399;"GARÇAS ENERGIA";"Garças Energia e Participações S.A";11/2/2020 00:00:00;;8
+66808366.00;0;0;0;0;405;"IRARA";"Irara Energética S.A";11/2/2020 00:00:00;;8
+66808367.00;0;0;0;0;300;"CRISTALINO";"Cristalino Energia Ltda.";11/2/2020 00:00:00;;8
+66808368.00;0;0;0;0;407;"RETIRO VELHO";"Retiro Velho Energética S.A";11/2/2020 00:00:00;;8
+66808369.00;0;0;0;0;175;"SEMARH-SE";"Secretaria do Meio Ambiente e Recursos Hídricos - SE";11/2/2020 00:00:00;;8
+66808370.00;0;0;0;0;419;"PARANATINGA";"Paranatinga Energia S.A";11/2/2020 00:00:00;;8
+66808371.00;0;0;0;0;420;"CONS.CESAP";"Consórcio Empresarial Salto Pilão - CESAP";11/2/2020 00:00:00;;8
+66808372.00;0;0;0;0;429;"MONEL";"Monel Monjolinho Energética S.A";11/2/2020 00:00:00;;8
+66808373.00;0;0;0;0;424;"SÃO PEDRO";"São Pedro Energia S.A";11/2/2020 00:00:00;;8
+66808374.00;0;0;0;0;422;"BME ENERGIA";"BME Energia S.A.";11/2/2020 00:00:00;;8
+66808375.00;0;0;0;0;423;"ST HIDRO";"ST Hidro Ltda.";11/2/2020 00:00:00;;8
+66808376.00;0;0;0;0;425;"M. SERRAT";"Monte Serrat Energética S.A";11/2/2020 00:00:00;;8
+66808377.00;0;0;0;0;432;"SANTA PAULA";"Santa Paula Energia Ltda";11/2/2020 00:00:00;;8
+66808378.00;0;0;0;0;430;"FUNDAGRO-SC";"Fundação de Apoio ao Desenvolimento Rural Sustentável de Sta. Catarina";11/2/2020 00:00:00;;8
+66808379.00;0;0;0;0;434;"IDEMA-RN";"Instituto de Desenvolvimento Sustentável e Meio Ambiente";11/2/2020 00:00:00;;8
+66808380.00;0;0;0;0;1042;"PAPELÃO";"Papelão Apucaraninha Ltda.";11/2/2020 00:00:00;;8
+66808381.00;0;0;0;0;1043;"DEMEI GERAÇÃO";"Departamento Municipal de Energia de Ijuí Geração - DEMEI-Geração";11/2/2020 00:00:00;;8
+66808382.00;0;0;0;0;342;"ESBR";"Energia Sustentável do Brasil S.A";11/2/2020 00:00:00;;8
+66808383.00;0;0;0;0;332;"CPFL";"CPFL Geração de Energia S.A.";11/2/2020 00:00:00;;8
+66808384.00;0;0;0;0;333;"HIDROMAB";"Hidromab - Hidrologia e Meio Ambiente";11/2/2020 00:00:00;;8
+66808385.00;0;0;0;0;351;"JFG";"JFG Energia S.A";11/2/2020 00:00:00;;8
+66808386.00;0;0;0;0;526;"CPFL-SUL";"CPFL Sul Centrais Elétricas Ltda";11/2/2020 00:00:00;;8
+66808387.00;0;0;0;0;362;"CANAÃ";"Canaã Geração de Energia S.A.";11/2/2020 00:00:00;;8
+66808388.00;0;0;0;0;357;"OMEGA";"Omega Energia Renovável S.A";11/2/2020 00:00:00;;8
+66808389.00;0;0;0;0;358;"PROMEL";"Promel Ltda.";11/2/2020 00:00:00;;8
+66808390.00;0;0;0;0;367;"GIOVENARDI";"Eugênio Giovenardi";11/2/2020 00:00:00;;8
+66808391.00;0;0;0;0;171;"MRN";"Mineração Rio do Norte";11/2/2020 00:00:00;;8
+66808392.00;0;0;0;0;1038;"OIAPOQUE";"Oiapoque Energia S.A.";11/2/2020 00:00:00;;8
+66808393.00;0;0;0;0;1035;"RIO DO SAPO";"SPE Rio do Sapo Energia S.A";11/2/2020 00:00:00;;8
+66808394.00;0;0;0;0;1030;"TRÊS LEÕES";"Três Leões Participações S.A.";11/2/2020 00:00:00;;8
+66808395.00;0;0;0;0;1031;"RINCÃO";"Rincão Energia S.A.";11/2/2020 00:00:00;;8
+66808396.00;0;0;0;0;1002;"SEBAST ENERGIA";"São Sebastião Energia Ltda.";11/2/2020 00:00:00;;8
+66808397.00;0;0;0;0;1003;"URBANO";"Urbano Agroindustrial Ltda.";11/2/2020 00:00:00;;8
+66808398.00;0;0;0;0;1004;"CONS.CAPIVARI";"Consórcio Cerbranorte-Urbano";11/2/2020 00:00:00;;8
+66808399.00;0;0;0;0;1005;"CAVALINHOS I";"Serra dos Cavalinhos I Energética S.A.";11/2/2020 00:00:00;;8
+66808400.00;0;0;0;0;1006;"EGP";"Enel Green Power Salto Apiacás";11/2/2020 00:00:00;;8
+66808401.00;0;0;0;0;1007;"ARCEZZIL";"Arcezzil Geração de Energia Elétrica Ltda.";11/2/2020 00:00:00;;8
+66808402.00;0;0;0;0;1008;"SÃO MANOEL";"Empresa de Energia São Manoel S.A.";11/2/2020 00:00:00;;8
+66808403.00;0;0;0;0;1009;"CAMPO BELO";"Campo Belo Energética S.A.";11/2/2020 00:00:00;;8
+66808404.00;0;0;0;0;1010;"ENERGÉTCANOAS";"Companhia Energética Canoas";11/2/2020 00:00:00;;8
+66808405.00;0;0;0;0;1011;"FAZENDA VELHA";"Energética Fazenda Velha S.A.";11/2/2020 00:00:00;;8
+66808406.00;0;0;0;0;1012;"STAHELENASA";"Santa Helena Energia S.A";11/2/2020 00:00:00;;8
+66808407.00;0;0;0;0;1032;"CARAMUJO";"Caramujo Energética Ltda.";11/2/2020 00:00:00;;8
+66808408.00;0;0;0;0;1033;"MAYNART";"Maynart Energética Ltda.";11/2/2020 00:00:00;;8
+66808409.00;0;0;0;0;299;"CERAN";"Companhia Energética Rio das Antas-CERAN";11/2/2020 00:00:00;;8
+66808410.00;0;0;0;0;1036;"DOIS SALTOS";"Dois Saltos Empreendimentos de Geração de Energia Elétrica Ltda.";11/2/2020 00:00:00;;8
+66808411.00;0;0;0;0;1037;"CAPÃO ALTO";"PCH Capão Alto Geração de Energia S.A.";11/2/2020 00:00:00;;8
+66808412.00;0;0;0;0;1039;"HEIDRICH";"Heidrich & Heidrich Ltda.";11/2/2020 00:00:00;;8
+66808413.00;0;0;0;0;1040;"CAJÚ";"Cajú Energia Ltda.";11/2/2020 00:00:00;;8
+66808414.00;0;0;0;0;1045;"COURO DO CERVO";"Couro do Cervo Energia Ltda.";11/2/2020 00:00:00;;8
+66808415.00;0;0;0;0;389;"FEMARH-RR";"Fundação Estadual do Meio Ambiente e Recursos Hídricos de Roraima";11/2/2020 00:00:00;;8
+66808416.00;0;0;0;0;1044;"CERTEL";"Certel Energias Renováveis S.A";11/2/2020 00:00:00;;8
+66808417.00;0;0;0;0;1063;"SÃO LUIZ";"São Luiz Energética S.A.";11/2/2020 00:00:00;;8
+66808418.00;0;0;0;0;1064;"PCH BVII";"PCH BVII - Geração de Energia Ltda";11/2/2020 00:00:00;;8
+66808419.00;0;0;0;0;1065;"BELA VISTA";"Bela Vista Energética S.A.";11/2/2020 00:00:00;;8
+66808420.00;0;0;0;0;1066;"MOURÃO";"Enel Green Power Mourão S.A.";11/2/2020 00:00:00;;8
+66808421.00;0;0;0;0;1072;"PULO";"Hidrelétrica Pulo Ltda.";11/2/2020 00:00:00;;8
+66808422.00;0;0;0;0;391;"SEMA-MA";"Secretaria de Estado de Meio Ambiente e Recursos Naturais - Maranhão";11/2/2020 00:00:00;;8
+66808423.00;0;0;0;0;1073;"SENS";"Hidrelétrica Sens Ltda.";11/2/2020 00:00:00;;8
+66808424.00;0;0;0;0;955;"FERNANDO COSTA";"Fernando Costa Faria & CIA LTDA.";11/2/2020 00:00:00;;8
+66808425.00;0;0;0;0;1074;"RETIRO";"Bom Retiro Energia Ltda.";11/2/2020 00:00:00;;8
+66808426.00;0;0;0;0;1075;"PAULISTA";"Paulista Geradora de Energia Ltda.";11/2/2020 00:00:00;;8
+66808427.00;0;0;0;0;1076;"BOA VISTA";"Boa Vista Energética S.A.";11/2/2020 00:00:00;;8
+66808428.00;0;0;0;0;1077;"SÃO LUIZ";"São Luiz Energia S.A.";11/2/2020 00:00:00;;8
+66808429.00;0;0;0;0;1078;"GUAPORÉ";"Nova Guaporé Energética S.A.";11/2/2020 00:00:00;;8
+66808430.00;0;0;0;0;1079;"SÃO JOÃO II";"Hidrelétrica São João II SPE Ltda";11/2/2020 00:00:00;;8
+66808431.00;0;0;0;0;1080;"ARGENTUM";"Argentum Energia SPE Ltda";11/2/2020 00:00:00;;8
+66808432.00;0;0;0;0;1081;"RECANTO";"Recanto Energética SPE S.A.";11/2/2020 00:00:00;;8
+66808433.00;0;0;0;0;1151;"CPFL Energias";"CPFL Energias Renováveis S.A.";11/2/2020 00:00:00;;8
+66808434.00;0;0;0;0;392;"CAMBARÁ";"Pequena Central Hidrelétrica Cachoeira do Cambará Ltda.";11/2/2020 00:00:00;;8
+66808435.00;0;0;0;0;1121;"SOCIEDADE";"Sociedade Urbano Cerbranorte - Geração de Energia Elétrica SPE Ltda.";11/2/2020 00:00:00;;8
+66808436.00;0;0;0;0;1085;"NOVACASA";"Novacasa Geração de Energia SPE Ltda";11/2/2020 00:00:00;;8
+66808437.00;0;0;0;0;1106;"PCH BELEZA";"Energética PCH Beleza Ltda.";11/2/2020 00:00:00;;8
+66808438.00;0;0;0;0;1084;"EECO";"EECO Jacutinga - Empreendimentos Energéticos do Centro Oeste S.A.";11/2/2020 00:00:00;;8
+66808439.00;0;0;0;0;1152;"ZARWAL";"Zarwal de Participação Ltda.";11/2/2020 00:00:00;;8
+66808440.00;0;0;0;0;457;"SERRANA";"Serrana Energética S.A.";11/2/2020 00:00:00;;8
+66808441.00;0;0;0;0;363;"CANHADÃO";"Canhadão Produção de Energia Elétrica LTDA.";11/2/2020 00:00:00;;8
+66808442.00;0;0;0;0;364;"CAROLINA";"Carolina Geração de Energia LTDA.";11/2/2020 00:00:00;;8
+66808443.00;0;0;0;0;228;"VALE-ITV";"Instituto Tecnológico Vale - ITV";11/2/2020 00:00:00;;8
+66808444.00;0;0;0;0;368;"COOP.STA. MARIA";"Cooperativa Geradora de Energia Elétrica e Desenvolvimento Santa Maria";11/2/2020 00:00:00;;8
+66808445.00;0;0;0;0;369;"CÉU AZUL";"Geração Céu Azul S.A.";11/2/2020 00:00:00;;8
+66808446.00;0;0;0;0;370;"CAMBARÁ";"Hidrelétrica Cambará S.A.";11/2/2020 00:00:00;;8
+66808447.00;0;0;0;0;371;"EMBAÚBA";"Hidrelétrica Embaúba S.A.";11/2/2020 00:00:00;;8
+66808448.00;0;0;0;0;372;"JELU";"Hidrelétrica Jelu LTDA.";11/2/2020 00:00:00;;8
+66808449.00;0;0;0;0;373;"RIO VITORINO";"Hidrelétrica Rio Vitorino LTDA.";11/2/2020 00:00:00;;8
+66808450.00;0;0;0;0;374;"PINHAL";"Pinhal Geradora de Energia S.A.";11/2/2020 00:00:00;;8
+66808451.00;0;0;0;0;376;"RIO JORDÃO";"Rio Jordão Papéis S.A.";11/2/2020 00:00:00;;8
+66808452.00;0;0;0;0;377;"SÃO ROQUE";"São Roque Energética S.A";11/2/2020 00:00:00;;8
+66808453.00;0;0;0;0;201;"CESAN";"Companhia Espirito Santense de Saneamento - CESAN";11/2/2020 00:00:00;;8
+66808454.00;0;0;0;0;1057;"SIGMA";"Sigma Energia S.A.";11/2/2020 00:00:00;;8
+66808455.00;0;0;0;0;1082;"SANTA BRANCA";"Hidrelétrica Santa Branca S.A.";11/2/2020 00:00:00;;8
+66808456.00;0;0;0;0;1083;"SECRETÁRIO";"Secretário Energia S.A.";11/2/2020 00:00:00;;8
+66808457.00;0;0;0;0;1109;"HIDROLUZ";"Hidroluz Centrais Elétricas Ltda.";11/2/2020 00:00:00;;8
+66808458.00;0;0;0;0;1130;"BRITO";"Brito Energética Ltda.";11/2/2020 00:00:00;;8
+66808459.00;0;0;0;0;1133;"ALTO GUAPORÉ";"PCH Alto Guaporé SPE S.A.";11/2/2020 00:00:00;;8
+66808460.00;0;0;0;0;1134;"OURO BRANCO";"Central Hidrelétrica Ouro Branco Ltda.";11/2/2020 00:00:00;;8
+66808461.00;0;0;0;0;1135;"DIAMANTINO";"Diamantino Energia Ltda";11/2/2020 00:00:00;;8
+66808462.00;0;0;0;0;1136;"VALENTIM";"São Valentim Geração de Energia S.A.";11/2/2020 00:00:00;;8
+66808463.00;0;0;0;0;1137;"LACERDÓPOLIS";"Lacerdópolis Energia S.A.";11/2/2020 00:00:00;;8
+66808464.00;0;0;0;0;545;"NOVA FÁTIMA";"Geradora de Energia Nova Fátima S.A";11/2/2020 00:00:00;;8
+66808465.00;0;0;0;0;620;"RODEIO BONITO";"Rodeio Bonito Hidrelétrica S.A";11/2/2020 00:00:00;;8
+66808466.00;0;0;0;0;630;"SANTA LAURA";"Santa Laura S.A";11/2/2020 00:00:00;;8
+66808467.00;0;0;0;0;633;"SÃO PAULO";"São Paulo Energética S.A .";11/2/2020 00:00:00;;8
+66808468.00;0;0;0;0;636;"SAPEZAL";"Sapezal Energia S.A";11/2/2020 00:00:00;;8
+66808469.00;0;0;0;0;754;"PRIMAVERA";"Primavera Energia S.A";11/2/2020 00:00:00;;8
+66808470.00;0;0;0;0;755;"LEÃOBRANCO";"Leão Branco Geração de Energia Ltda.";11/2/2020 00:00:00;;8
+66808471.00;0;0;0;0;366;"MORRO GRANDE";"Hidrelétrica Morro Grande Ltda.";11/2/2020 00:00:00;;8
+66808472.00;0;0;0;0;202;"UFC";"UFC Engenharia";11/2/2020 00:00:00;;8
+66808473.00;0;0;0;0;1056;"ENEL GREEN";"Enel Green Power Paranapanema S.A.";11/2/2020 00:00:00;;8
+66808474.00;0;0;0;0;1114;"SUDOESTE";"Sudoeste Energia Ltda.";11/2/2020 00:00:00;;8
+66808475.00;0;0;0;0;1123;"SZO";"SZO Empreendimentos Ltda.";11/2/2020 00:00:00;;8
+66808476.00;0;0;0;0;471;"ARATU";"Aratu Geração S.A";11/2/2020 00:00:00;;8
+66808477.00;0;0;0;0;1138;"ENERVIX";"Enervix Energias do Espiríto Santo";11/2/2020 00:00:00;;8
+66808478.00;0;0;0;0;99;"OUTRAS";;11/2/2020 00:00:00;;8
+66808479.00;0;0;0;0;1049;"CERCAR";"Cooperativa de Eletrificação e Desenvolvimento Econômico de Marechal Cândido Rondon";11/2/2020 00:00:00;;8
+66808480.00;0;0;0;0;1122;"SARGENTO";"Rio Sargento Energia S.A.";11/2/2020 00:00:00;;8
+66808481.00;0;0;0;0;1018;"DORES";"PCH Dores de Guanhães S.A.";11/2/2020 00:00:00;;8
+66808482.00;0;0;0;0;1013;"AGUALIMPAMG";"Água Limpa Energia S.A. (MG)";11/2/2020 00:00:00;;8
+66808483.00;0;0;0;0;1014;"SAVANA";"Savana Geração de Energia S.A.";11/2/2020 00:00:00;;8
+66808484.00;0;0;0;0;1015;"PHOENIX";"Phoenix Geração de Energia S.A.";11/2/2020 00:00:00;;8
+66808485.00;0;0;0;0;1016;"LAGOA AZUL";"Lagoa Azul Energética S.A.";11/2/2020 00:00:00;;8
+66808486.00;0;0;0;0;1017;"SINOP";"Companhia Energética Sinop S.A.";11/2/2020 00:00:00;;8
+66808487.00;0;0;0;0;1019;"JACARÉ";"PCH Jacaré S.A.";11/2/2020 00:00:00;;8
+66808488.00;0;0;0;0;1020;"FORTUNA";"PCH Fortuna ll S.A.";11/2/2020 00:00:00;;8
+66808489.00;0;0;0;0;1021;"SENHORA";"PCH Senhora do Porto S.A.";11/2/2020 00:00:00;;8
+66808490.00;0;0;0;0;1022;"VIBRAL";"Construtora Vibral Ltda.";11/2/2020 00:00:00;;8
+66808491.00;0;0;0;0;1023;"LAJEADO";"Hidroelétrica Lajeado Ltda.";11/2/2020 00:00:00;;8
+66808492.00;0;0;0;0;1024;"TIJOÁ";"Tijoa Participações e Investimentos S.A.";11/2/2020 00:00:00;;8
+66808493.00;0;0;0;0;1025;"VERDE 02";"Verde 02 Energética Ltda.";11/2/2020 00:00:00;;8
+66808494.00;0;0;0;0;1026;"LAJES";"Lajes Energia S.A.";11/2/2020 00:00:00;;8
+66808495.00;0;0;0;0;1027;"TAMBORIL";"Tamboril Energética S.A.";11/2/2020 00:00:00;;8
+66808496.00;0;0;0;0;1028;"CARNAÚBA";"Carnaúba Geração de Energia S.A.";11/2/2020 00:00:00;;8
+66808497.00;0;0;0;0;950;"ASSET";"Asset Allocation Assessoria e Participações Ltda.";11/2/2020 00:00:00;;8
+66808498.00;0;0;0;0;951;"CIMAG";"Cimento Portland Mato Grosso S.A.";11/2/2020 00:00:00;;8
+66808499.00;0;0;0;0;952;"SERVENG";"Serveng Civilsan S.A. - Empresas Associadas de Engenharia";11/2/2020 00:00:00;;8
+66808500.00;0;0;0;0;815;"SANTAFÉ";"Santa Fé Energética Ltda.";11/2/2020 00:00:00;;8
+66808501.00;0;0;0;0;188;"FEPAM-RS";"Fundação Estadual de Proteção Ambiental Henrique Luiz Roessler - RS";11/2/2020 00:00:00;;8
+66808502.00;0;0;0;0;1150;"SÃO PATRÍCIO";"Companhia São Patrício de Geração e Transmissão de Energia Elétrica - CSPG&T";11/2/2020 00:00:00;;8
+66808503.00;0;0;0;0;1060;"CEMIG SUL";"CEMIG Geração Sul S.A.";11/2/2020 00:00:00;;8
+66808504.00;0;0;0;0;1061;"CEMIG LESTE";"CEMIG  Geração Leste S.A.";11/2/2020 00:00:00;;8
+66808505.00;0;0;0;0;1139;"DESERTO";"Central Geradora Hidroelétrica Santana do Deserto Ltda.";11/2/2020 00:00:00;;8
+66808506.00;0;0;0;0;1140;"INGÁ-MIRIM";"Ingá-Mirim Energia S.A.";11/2/2020 00:00:00;;8
+66808507.00;0;0;0;0;1141;"PALMEIRAS";"Central Hidrelétrica Palmeiras do Tocantins Ltda.";11/2/2020 00:00:00;;8
+66808508.00;0;0;0;0;1142;"RIO DAS PEDRAS";"Energética Rio das Pedras SPE Ltda.";11/2/2020 00:00:00;;8
+66808509.00;0;0;0;0;1143;"C2LG GERAÇÃO";"C2LG Geração de Energia Ltda.";11/2/2020 00:00:00;;8
+66808510.00;0;0;0;0;1144;"SUCURI";"Central Hidrelétrica Sucuri Ltda.";11/2/2020 00:00:00;;8
+66808511.00;0;0;0;0;1145;"MAFRÁS ENERGIA";"Mafrás Energia e Reflorestamento Ltda.";11/2/2020 00:00:00;;8
+66808512.00;0;0;0;0;1146;"SIRIVERA";"Central Hidrelétrica Sirivera Ltda.";11/2/2020 00:00:00;;8
+66808513.00;0;0;0;0;1147;"MÉDIO GARCIA";"Médio Garcia Hidrelétrica S.A.";11/2/2020 00:00:00;;8
+66808514.00;0;0;0;0;1148;"PORTO";"Porto Energética Ltda.";11/2/2020 00:00:00;;8
+66808515.00;0;0;0;0;1149;"PARAÍSO";"Hidrelétrica Paraíso SPE Ltda.";11/2/2020 00:00:00;;8
+66808516.00;0;0;0;0;250;"UNB";"Universidade de Brasília";11/2/2020 00:00:00;;8
+66808517.00;0;0;0;0;1055;"ALTESO";"Alteso Geração e Comercialização de Energia Ltda.";11/2/2020 00:00:00;;8
+66808518.00;0;0;0;0;1155;"CHEROBIM";"SPE Cherobim Energia S.A.";11/2/2020 00:00:00;;8
+66808519.00;0;0;0;0;501;"RINCÃOSÃOMIGUEL";"Rincão São Miguel Energética S/A";11/2/2020 00:00:00;;8
+66808520.00;0;0;0;0;506;"QUEVEDOS";"Quevedos Energética S/A";11/2/2020 00:00:00;;8
+66808521.00;0;0;0;0;507;"GUASSUPI";"Salto do Guassupi Energética S/A";11/2/2020 00:00:00;;8
+66808522.00;0;0;0;0;530;"C TABOCA";"Centrais Elétricas Taboca Ltda.";11/2/2020 00:00:00;;8
+66808523.00;0;0;0;0;584;"OSWALDO";"Oswaldo Vicintin PCH Ltda";11/2/2020 00:00:00;;8
+66808524.00;0;0;0;0;618;"SPVR";"S.P.V.R. Geração e Comercialização de Energia Elétrica Ltda.";11/2/2020 00:00:00;;8
+66808525.00;0;0;0;0;637;"AGROENERGÉTICA";"Agroenergética Mato Grosso Ltda";11/2/2020 00:00:00;;8
+66808526.00;0;0;0;0;638;"GARÇA BRANCA";"Garça Branca Energética S/A";11/2/2020 00:00:00;;8
+66808527.00;0;0;0;0;680;"PAINEL";"Painel Energética S/A";11/2/2020 00:00:00;;8
+66808528.00;0;0;0;0;681;"BCENG";"Brasil Central Engenharia Ltda.";11/2/2020 00:00:00;;8
+66808529.00;0;0;0;0;1154;"FOCUS";"Focus Geração de Energia Ltda.";11/2/2020 00:00:00;;8
+66808530.00;0;0;0;0;1156;"GALERA";"Rio Galera Energética S.A.";11/2/2020 00:00:00;;8
+66808531.00;0;0;0;0;1157;"SILVEIRA III";"Silveira III Energética S.A.";11/2/2020 00:00:00;;8
+66808532.00;0;0;0;0;1158;"SANTANA";"Foz do Santana Geração de Energia S.A.";11/2/2020 00:00:00;;8
+66808533.00;0;0;0;0;953;"RENOVA";"Fundação Renova";11/2/2020 00:00:00;;8
